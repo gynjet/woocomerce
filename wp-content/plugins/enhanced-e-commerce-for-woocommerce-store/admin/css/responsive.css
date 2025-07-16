@@ -1,0 +1,464 @@
+@media only screen and (min-width:1300px) and (max-width:1399px){
+	/*----- dashboard ------*/
+	.ecomchrtinfoflex{padding-left: 10px;}
+
+}
+@media only screen and (min-width:1200px) and (max-width:1299px){
+	/*----- dashboard ------*/
+	.ecomchrtinfoflex{padding-left: 0px;}
+
+}
+@media only screen and (min-width:1025px) and (max-width:1199px){
+	/*------ sync-product -----*/
+	.navinfotopnav ul li a{padding:0 10px 16px;}
+	.navsmrybx{padding:15px;}
+	.navsmrysmalltxt{font-size:13px;}
+	.navsmrybigtxt{font-size:36px;}
+
+	/*----- dashboard ------*/
+	.dshreporttble th, .dshreporttble td{padding: 13px 12px;}
+	.dshsmrylrgtxt{font-size: 36px; line-height: 42px;}
+	.ecomchrtinfoflex{padding-left: 0px; margin: 0 -10px;}
+	.ecomchartinfoitem{padding: 0 10px;}
+	.ecomchartinfolabel{max-width: 100%; }
+	.chartpercarrow{position: relative; right: 0; left: 0%;}
+
+	/*------ map product category ------*/
+	.sbmaincat{padding-right: 0px;}
+	.sbmaincat .mapcataccr-top{padding-right: 0px;}
+	.mapcataccr-title{min-width:280px;}
+	.mapcataccr-select{width: 240px;}
+
+}
+@media only screen and (max-width:1024px){
+
+}
+@media only screen and (min-width:992px) and (max-width:1024px){
+	/*------ sync-product -----*/
+	.navinfotopnav ul li a{padding:0 10px 16px;}
+	.navsmrybx{padding:15px;min-height:110px;}
+	.navsmrysmalltxt{font-size:13px;}
+	.navsmrybigtxt{font-size:36px;}
+
+	/*------ account setting ------*/
+	.bilnginfo-scalability .sclabilityleft{max-width: 380px; flex: 1;}
+	.bilnginfo-scalability .sclabilityright{max-width: 300px; flex: 0 0 300px;}
+
+	/*----- dashboard ------*/
+	.dshreporttble th, .dshreporttble td{line-height: 18px; padding: 13px 12px;}
+	.dshsmrylrgtxt{font-size: 32px; line-height: 38px;}
+	.ecomchrtinfoflex{padding-left: 0px; margin: 0 -10px;}
+	.ecomchartinfoitem{padding: 0 10px;}
+	.ecomchartinfolabel{max-width: 100%; font-size: 11px; align-items: flex-start; min-height: 30px;}
+	.chartpercarrow{position: relative; right: 0; left: 0%;}
+
+	/*------ map product category ------*/
+	.sbmaincat{padding-right: 0px;}
+	.sbmaincat .mapcataccr-top{padding-right: 0px;}
+	.mapcataccr-title{min-width:270px;}
+	.mapcataccr-select{width: 222px;}
+
+	/*------ Map Product Attributes -----*/
+	.mapproattr-left .msppageinfotxt::after{margin-left: 20px; margin-right: 20px;}
+	.attrfrmleft label{font-size: 14px; line-height: 22px;}
+
+}
+@media only screen and (max-width:991px){
+	/*----- onboarding ----*/
+	.onbordingtop{margin-left: auto; margin-right: auto;}
+	.onboardingstepwrap{flex: 0 0 100%;margin: 0 auto;}
+	.onbording-right{max-width: 622px; flex: 0 0 100%; margin:20px auto 0;}
+
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+	/*----- onboarding -----*/
+	.crtemrchntpp .onbrdpp-body{max-width: 700px;}
+	.crtemrchnpp-lft{max-width: 425px;}
+
+	/*------ sync-product -----*/
+	.hdrcntcbx{font-size: 13px;}
+	.navinfotopnav ul li a{font-size:14px;padding:0 10px 16px;}
+	.navsmrybx{padding:15px;min-height:100px;}
+	.navsmrysmalltxt{font-size:12px;}
+	.navsmrybigtxt{font-size:36px;}
+	.sclabilityleft{max-width:370px;}
+	.sclabilityleft h2{font-size:24px;line-height:30px;}
+	.sclabilityleft p{font-size:14px;line-height:22px;}
+	.syncpropagination ul li{margin:0 2px;}
+	.pgprevbtn{margin-right:10px;}
+	.pgnextbtn{margin-left:10px;}
+
+	/*------ account setting ------*/
+	.accstngdtl-top h2{font-size: 24px;}
+	.cnvs-table th{font-size: 14px;}
+	.bilnginfo-scalability .sclabilityleft{max-width: 100%;}
+	.bilnginfo-scalability .sclabilityright{margin-top: 24px;}
+
+	/*------ dashboard -------*/
+	.claimalert .errmscntbx{display: flex; flex-wrap: nowrap;}
+	.claimalert .errmsglft{max-width:54px; flex: 0 0 54px;}
+	.dshreporttble th, .dshreporttble td{font-size: 13px; line-height: 18px; padding: 12px 6px;}
+	th.prdnm-cell, td.prdnm-cell{max-width: 120px;}
+	.tddshpertg{font-size: 13px;}
+	.dshsmrylrgtxt{font-size: 30px; line-height: 36px;}
+	.ecomchrtinfoflex{padding-left: 0px; margin: 0 -8px}
+	.chartpercarrow{position: relative; right: 0; left: 0%;}
+	.ecomchartinfoitem{padding: 0 8px;}
+	.ecomchartinfolabel{max-width: 100%; font-size: 11px; align-items: flex-start; min-height: 30px;}
+	.ggladschrtbx{padding-bottom: 9px}
+
+	/*------ map product category ------*/
+	.msppageinfowrap{padding-left: 0px;}
+	.msppageinfotxt::after{margin: 0 30px;}
+	.mapcataccr-title::before,.mapcataccr-title::after{content: none;}
+	.mapcataccr-top{display: inherit;}
+	.mapcataccr-title{min-width: inherit;}
+	.sbmaincat .mapcataccr-top{padding-right: 0px;}
+	.sbmaincat{padding: 18px 0px 0px 25px}
+	.topactive:before{left: 2px;}
+	.sbmaincat:before{left: 2px;}
+	.mapcataccr-select{padding-left: 10px;}
+
+	/*------ Map Product Attributes -----*/
+	.msppageinfotxt .attrinfoicon{margin-left: 4px;}
+	.mapproattr-left .msppageinfotxt::after{margin-left: 5px; margin-right: 5px;}
+	.attrfrmright{flex: 0 0 100%;}
+	.attrfrmleft label{font-size: 14px; line-height: 22px;}
+	
+}
+@media only screen and (max-width:767px){
+	/*----- onboarding ------*/
+	.crtemrchntppcntnr{padding: 0 10px;}
+	.crtemrchnpp-lft{border-right: none; padding-right: 0px; padding-bottom: 15px; border-bottom: 1px solid #E9E9E9; margin: 0 auto; width: 100%; }
+	.crtemrchnpp-right{padding-left: 0px; margin: 0 auto; width: 100%; max-width: 506px; padding-top: 15px; }
+
+	/*------ sync-product -----*/
+	.header{padding:20px 15px 20px;}
+	.promobandmsg{font-size:12px;line-height:18px;}
+	.promoleft, .promoright{flex:0 0 100%;max-width:100%;}
+	.promoright{margin-top:10px;}
+	.promobandtop, .errormsgtopbx{margin-bottom:15px;position:relative;}
+	.promobandtop{padding:15px 0;}
+	.prmoclsbtn{position:absolute;top:5px;right:5px;}
+	.hdrtpleft{flex:1;max-width:100%;}
+	
+	.hdrnotiwrp{margin-left:15px;}
+	.navinfonavtext{opacity:0;display:none;transition:all 0.3s ease-in-out 0s;-moz-transition:all 0.3s ease-in-out 0s;-webkit-transition:all 0.3s ease-in-out 0s;-o-transition:all 0.3s ease-in-out 0s;}
+	.navinfotopnav ul li a{padding:0 10px 16px;}
+	.navinfotopnav ul li a:hover .navinfonavtext{opacity:1;display:none;}
+	.navinfotopnav ul li.active a .navinfonavtext{opacity:1;display:none;}
+	.navsmryitem{max-width:33.3333%;flex:0 0 33.33333%;margin-bottom:20px;}
+	.navsmryitem:last-child{margin-bottom:0px;}
+	.sclabilityright{margin:40px 0 0;padding-left:15px;}
+	.w750container{max-width:430px;}
+	.sclabilityleft h2{font-size:24px;line-height:30px;}
+	.sclabilityleft p{font-size:14px;line-height:22px;}
+	.syncprodtheader{padding:15px 15px;}
+	.syncprdcbtnwrp{padding-left:0px;}
+	.syncprodtblheader{display:none;}
+	.mbl-allitemchek{display:flex;}
+	.syncprotbody-item{flex-wrap:wrap;align-items:center;}
+	.syncprotblcell{max-width:100%;flex:100%;display:flex;padding:6px 10px;}
+	.data-th{display:block;flex:0 0 120px;max-width:120px;margin-bottom:6px;font-weight:500;}
+	.stsdetlcell, .actndetlcell{text-align:left;}
+	.syncprofooter{padding:20px 20px}
+	.properpage{padding-right:0px;margin-bottom:9px;max-width:100%;flex:0 0 100%;}
+	.syncpropagination{padding-left:0px;max-width:100%;flex:0 0 100%;justify-content:center;}
+	.syncpropagination ul li{margin:0 1px;}
+	.pgprevbtn{margin-right:8px}
+	.pgnextbtn{margin-left:8px}
+
+	/*------ account setting ------*/
+	.accsrng-left{display: none; opacity: 0; visibility: hidden; right: -230px;}
+	.accsrng-right{border-left: none;}
+	.accstng-cntwrap{display: inherit;}
+	.accstngdtl-top{padding: 18px 15px 18px 15px}
+	.accstng-dtlarea{padding: 24px 15px; margin-bottom: 0px; padding-top: 24px !important;}
+	.accstngdtl-top h2{font-size: 18px; line-height: 1.2;}
+	.accstngdtl-item{margin-bottom: 24px;}
+	.mblacntstng-lefttrgr{display: flex; align-items: center; justify-content: center;}
+	.showaccsrngleft{display: inherit; opacity: 1; visibility: visible; right:0;}
+	.accprdcsyncstng-item{margin-bottom: 30px;}
+
+	/*------ dashboard -------*/
+	.dashsmrybx{max-width: 50%; flex: 0 0 50%; border-bottom:1px solid #e9e9e9;}
+	.mblsmry3bx{flex: 0 0 33.3333%; max-width: 33.3333%;}
+	.dashsmrybx:last-child{border-bottom: none;}
+	.col50{flex: 0 0 100%; max-width: 100%;}
+	.ecomfunnchart .col50:last-child{margin-top: 24px;}
+	.dshrprttp-left{max-width: 75%; flex: 0 0 75%;}
+	.dshrprttp-right{max-width: 25%; flex: 0 0 25%;}
+	.dashtp-right{margin-top: 9px; flex:0 0 100%; max-width: 100%; justify-content: flex-start}
+	.dashtablewrp{margin-top: 24px;}
+	.claimalert .errmscntbx{display: flex; flex-wrap: nowrap;}
+	.claimalert .errmsglft{max-width:54px; flex: 0 0 54px;}
+	.erralertrigt h6, .erralertrigt p{line-height: 18px}
+	.dshsmrylrgtxt{font-size: 36px; line-height: 42px;}
+	.ecomchrtinfoflex{padding-left: 0px;}
+	.chartpercarrow{position: relative; right: 0; left: 0%;}
+	.ecomchartinfolabel{max-width: 100%; align-items: flex-start; min-height: 30px;}
+	.ggladschrtbx{padding-bottom: 9px}
+
+	.daterangepicker {width: 96%;}
+
+
+	/*---- responsive table ----*/
+	.mbl-table{border:none; }
+	.mbl-table tr{margin-bottom: 15px; display: block; border-bottom: 1px solid #e3ecf1;}
+	.mbl-table th, .mbl-table td{text-align: left;}
+	table.bt thead,table.bt tbody th{display:none;}
+	table.bt tfoot th,table.bt tfoot td,table.bt tbody td{border:none;display:block;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;vertical-align:top;float:left\9;width:100%\9; padding: 0px; }
+	table.bt tbody td{border: 1px solid #e3ecf1; border-bottom: none; align-items: center;}
+	table.bt tfoot th::before,table.bt tfoot td::before,table.bt tbody td::before{content:attr(data-th) "";display:inline-block;-webkit-flex-shrink:0;-ms-flex-shrink:0;flex-shrink:0;font-weight:bold;width:34%;}
+	table.bt tfoot th.bt-hide,table.bt tfoot td.bt-hide,table.bt tbody td.bt-hide{display:none;}
+	table.bt tfoot th .bt-content,table.bt tfoot td .bt-content,table.bt tbody td .bt-content{vertical-align:top;}
+	.bt-wrapper.active{max-height:310px;overflow:auto;-webkit-overflow-scrolling:touch;}
+	table.bt.bt--no-header tfoot td::before,table.bt.bt--no-header tbody td::before{display:none;}
+	table.bt tfoot th:before,
+	table.bt tfoot td:before,
+	table.bt tbody td:before {background: #F1F6FA;margin-right:10px;padding: 10px 8px; font-weight: 400; color: #1e1e1e;}
+	th.prdnm-cell, td.prdnm-cell{max-width: 100%;}
+	td.prdnm-cell a{width: 96%;}
+
+
+	/*------ map product category ------*/
+	.backlnkbtn{margin-right: 10px}
+	.mapcataccr-detail{padding: 0px;}
+	.backlnkbtn img{max-width: 20px;}
+	.msppageinfowrap{padding-left: 0; }
+	.msppageinfotxt::after{margin: 0 15px 0 15px; height: 20px;}
+	.mapcataccr-top{flex-wrap: wrap; padding-right: 0px; display: inherit;}
+	.mapcataccr-title::before,.mapcataccr-title::after{content: none;}
+	.topactive::before{content: none;}
+	.mapcataccr-title{width: 100%; max-width: 298px; min-width: inherit;}
+	.sbmaincat{padding-right: 0px;}
+	.mapcataccr-item{padding:12px 15px}
+
+	/*------ Map Product Attributes -----*/
+	.mapproattr-right{max-width: 100%; flex: 0 0 100%; margin-top: 20px;}
+	
+	
+}
+@media only screen and (min-width:639px) and (max-width:767px){
+	/*------ sync-product -----*/
+	.w750container{max-width:100%;}
+	.sclabilityleft{max-width:300px;}
+	.sclabilityright{max-width:271px;}
+	.sclabilityleft h2{font-size:21px;line-height:24px;}
+	.sclabilityleft p{line-height:20px;}
+	.prdcinfopp-left{max-width:260px;flex:0 0 260px;}
+	.prdtpplrg-imgwrp{width:280px;height:280px;}
+	.prdcinfopp-right{max-width:280px;flex:0 0 280px;}
+
+
+	/*------ account setting ------*/
+	.bilnginfo-scalability .sclabilityleft{max-width:380px; flex: 1}
+	.bilnginfo-scalability .sclabilityright{margin-top: 0px;max-width: 300px; flex: 0 0 300px;}
+
+	/*----- map product category page ------*/
+	.sbmaincat::before{left: 1px; top: 0}
+	.sbmaincat .mapcataccr-top::after{left: 1px;}
+	.sbmainlevel:last-child::before{height: 35px;}
+
+}
+@media only screen and (max-width:639px){
+	/*------ sync-product -----*/
+	.header{padding-bottom: 15px;}
+	.hdrtpleft{max-width: 138px;}
+	.hdrtpright{max-width: 100%; flex: 1;}
+	.hdrcntcbx{display: none;}
+	.mblhdrcntcbx{display: inherit; max-width:100%;flex:0 0 100%;padding:10px 15px 0;margin-left:0;border-left:none;border-top:1px solid #e9e9e9;margin-top:15px;}
+	.navsmryitem{max-width:50%;flex:0 0 50%;}
+	.prdcinfopp-right{max-width:305px;flex:0 0 305px;padding-left:0px;margin-top:15px}
+	.prdcinfobody{justify-content:center;}
+	.prdctinfopp-cntn{max-width:400px;}
+
+	/*----- dashboard -------*/
+	.dshsmrylrgtxt{font-size: 32px; line-height: 38px;}
+	.daterangepickerflex{display: inherit;}
+	.daterangepicker-left{max-width: 100%;}
+	.daterangepicker-right{padding: 12px 15px;}
+
+	/*------ map product category ------*/
+	
+	.mapcataccr-top{display: inherit;}
+	.sbmaincat{padding: 12px 0px 0px 20px}
+	.sbmaincat::before, .sbmaincat .mapcataccr-top::after{border-left-width: 1px;}
+	.sbmaincat::before{top: 0; left: 1px;}
+	.sbmaincat .mapcataccr-top::before{border-top-width: 1px; left: -15px;}
+	.sbmaincat::after{width: 5px; height: 7px; top: 14px; left: 15px;}
+	.sbmaincat .mapcataccr-top::after{left: 1px; height: calc(100% + 3px)}
+	.sbmainlevel:last-child::before{height: 28px;}
+
+
+
+}
+@media only screen and (min-width:576px) and (max-width:639px){
+	/*------ onboarding -----*/
+	.orwrp{font-size: 14px; padding: 0 12px; }
+	.chckbxbgbx{display: inherit;}
+	.chckbxbgbx .cstmcheck-item{margin-right: 0px; margin-bottom: 9px;}
+	.chckbxbgbx .cstmcheck-item:last-child{margin-bottom: 0px;}
+
+	
+
+
+}
+@media only screen and (max-width:575px){
+	
+	/*------ onboarding -----*/
+	.onbordingtop{padding: 0 15px;}
+	.stepdtltop{padding:15px 40px 15px 15px }
+	.helpicon{margin-left: 6px;}
+	.stepdtltop::before{right: 15px;}
+	.stepleftround{margin-right: 12px;}
+	.stepmoredtlwrp{padding-left:20px; padding-right: 20px;}
+	.chckbxbgbx{display: inherit;}
+	.chckbxbgbx .cstmcheck-item{margin-right: 0px; margin-bottom: 9px;}
+	.chckbxbgbx .cstmcheck-item:last-child{margin-bottom: 0px;}
+	.stepnotewrp{margin-left: -20px; margin-right: -20px; padding-left: 15px; padding-right: 15px; }
+
+	/*------ sync-product -----*/
+	.hdrtpleft{flex-wrap:wrap;}
+	.errmsglft{max-width:100%;flex:0 0 100%;line-height:18px;}
+	.errmsgright{margin-left:0;padding-left:0;border-left:none;margin-left:28px;}
+	.prdchdrsrch, .prdcfilter{padding:0 5px;}
+	.syncprdcbtn{min-width:200px;}
+
+	/*------ account setting ------*/
+	.acnttypebx-item{max-width: 100%; flex: 0 0 100%;  margin-bottom:15px;}
+	.acnttypebx-item:last-child{margin-bottom: 0px;}
+	.accstngdtl-checkbx .cstmcheck-item{display: inline-flex; width: 100%;}
+	.accnthlpiocn{min-width: 18px; margin-top: 2px;}
+	.accprdcsync-left{flex: 0 0 100%; padding-right: 0px;}
+	.accprdcsync-right{flex: 0 0 100%; padding-left: 0px; margin-top: 9px; align-items:flex-start;}
+	.cnvs-table th{font-size: 14px; line-height: 22px; padding: 9px 5px;}
+
+	/*------ dashboard ------*/
+	.dsh-reprttop{display: block;}
+	.dshrprttp-left{max-width: 100%; flex: 0 0 100%;}
+	.dshrprttp-right{max-width: 100%; flex: 0 0 100%; margin-top: 9px;}
+	.dshsmrylrgtxt{font-size: 30px; line-height: 36px;}
+	.drp-calendar.left::before{content: none;}
+	.drp-calendar{max-width: 100%; flex: 0 0 100%;}
+	.drp-calendar.left,.drp-calendar.right{padding-left:0; padding-right: 0px; }
+	.daterangepicker {width: 276px; left: 50% !important;right: 50% !important; margin-left: -138px;}
+	.drpbtmbuttonflex{display: inherit;}
+	.drpbtmbuttonflex-left, .drpbtmbuttonflex-right{max-width: 100%; flex: 0 0 100%;}
+	.drpbtmbuttonflex-right{margin-top: 9px;}
+
+
+	/*---- map category page ------*/
+	.sbmaincat{padding: 12px 0px 0px 15px}
+	.sbmaincat::before, .sbmaincat .mapcataccr-top::after{border-left-width: 1px;}
+	.sbmaincat::before{top: 0; left: 1px;}
+	.sbmaincat .mapcataccr-top::before{border-top-width: 1px; left: -10px;}
+	.sbmaincat::after{width: 5px; height: 7px; top: 14px; left: 10px;}
+	.sbmaincat .mapcataccr-top::after{left: 1px; height: calc(100% + 3px)}
+	.sbmainlevel:last-child::before{height: 28px;}
+
+	/*------ Map Product Attributes -----*/
+	.attrfrmleft label{font-size: 14px;  line-height: 22px;}
+
+
+}
+@media only screen and (max-width:479px){
+
+	/*------ onboarding -------*/
+	.selcttopwrap {flex-wrap: wrap; }
+	.congratppcntnr .onbrdnpp-hdr h2{font-size: 36px;}
+	.creatnewwrp{flex: 0 0 100%; max-width: 100%; margin-top: 9px;}
+	.cngtrpplft{padding-left: 20px}
+	
+	/*------ sync-product -----*/
+	.navsmryitem{max-width:100%;flex:0 0 100%;}
+	.syncprdcbtnwrp{max-width:100%;flex:0 0 100%;padding-left:15px;margin-top:6px;}
+	.syncprdcbtn{width:100%;}
+	.syncproimage{width:70px;height:70px;}
+	.syncprotblcell{flex-wrap:wrap;}
+	.data-th{max-width:120px;flex:0 0 120px;}
+	.syncpropagination ul{flex-wrap:wrap;}
+	.syncpropagination ul{margin:0 0px;}
+	.paginitem{margin-top:6px; min-width: 18px; font-size: 12px; line-height: 13px; padding: 3px 4px; height: 20px;}
+	.tbodyprodetl-cell .syncprotblcntn{flex: 0 0 100%; max-width: 100%;}
+	.pgprevbtn{margin-right: 1px;}
+	.pgnextbtn{margin-left: 1px;}
+
+
+	/*------- dashboard ------*/
+	.dashtp-right{display: block; margin-top: 9px; justify-content: flex-start;}
+	.dshtpdaterange{margin-left: 0; margin-top: 6px;}
+	.dsh-reprttop{display: block;}
+	.dashsmrybx{max-width: 100%; flex: 0 0 100%;}
+	.ecomfunnchrtbx{padding: 15px;}
+	.ecomchrtinfoflex{margin: 0 -10px;}
+	.ecomchartinfoitem{padding: 0 10px;}
+	.ecomchartinfolabel{font-size: 11px; align-items: flex-start; min-height: 34px;}
+
+	/*------ account setting ------*/
+	.acntmrchnt-item{flex-wrap: wrap;}
+	.accmrchntitem-left{flex: 0 0 230px;}
+	.accmrchntitem-right{flex: 0 0 160px; min-width: 160px; margin-top: 6px;}
+
+	/*---- map category page -------*/
+	.mapcataccr-select{width: 100%;}
+	.mapcataccr-select select{width: 220px;}
+
+	/*------- map product attributes ------*/
+	.attrfrmleft{flex: 0 0 100%;}
+	.infoicontrgr::after{left: inherit; right: 0; margin-left: 0; margin-right: -15px;}
+}
+@media only screen and (max-width:399px){
+	/*------- onboarding -------*/
+	.onbordingtop p{font-size: 14px; line-height: 22px;}
+	.onbordingtop h2{font-size: 24px;}
+	.stepdtltop h4{font-size: 16px; line-height: 22px;}
+	.slect2bx{width: 225px;}
+	.orwrp{padding:0 0 0 8px;}
+	.congratppcntnr .onbrdnpp-hdr h2{font-size: 28px;}
+	.congratppcntnr .onbrdnpp-hdr{padding-bottom: 0px;}
+	.cngrtppdtl-item{display: inherit;}
+	.cngtrpplft{padding-left: 22px}
+	.cngtrpprgt{text-align: left; padding-left: 22px; margin-top: 4px;}
+
+	/*------ sync-product -----*/
+	.hdrcntcbx{font-size:13px;line-height:20px;}
+	.dshrprttp-left h4{margin-right: 0px;}
+
+	/*------- dahboard -----*/
+	.ecomchartinfolabel{font-size: 10px; align-items: flex-start; min-height: 34px;}
+	.chartpercarrow{font-size: 10px; padding: 9px 0 9px 5px;}
+
+	/*---- map category page -------*/
+	.sbmaincat{padding: 12px 0px 0px 10px}
+	.sbmaincat::before, .sbmaincat .mapcataccr-top::after{border-left-width: 1px;}
+	.sbmaincat::before{top: 0;}
+	.sbmaincat .mapcataccr-top::before{border-top-width: 1px; left: -5px;}
+	.sbmaincat::after{width: 5px; height: 7px; top: 14px; left: 10px;}
+	.sbmaincat .mapcataccr-top::after{left: 1px; height: calc(100% + 3px)}
+	.mapcataccr-detail .mapcataccr-title{padding-left: 6px;}
+	.mapcataccr-select select{width: 200px;}
+	.mapcataccr-title{font-size: 14px; line-height:22px;}
+
+}
+@media only screen and (max-width:359px){
+	/*------ sync-product -----*/
+	.hdrcntcbx{font-size:12px;line-height:18px;}
+	.prdctinfopp-cntn{padding:15px;}
+	.prdcinfopp-left{max-width:260px;flex:0 0 260px;}
+	.prdtpplrg-imgwrp{width:260px;height:260px;}
+	.prdcinfopp-right{max-width:260px;flex:0 0 260px;}
+	.hdrtpright{min-width: 100%; flex: 0 0 100%; margin-top: 6px;}
+	.dashtpleft-btn{margin-right: 3px;}
+
+	/*------- dahboard -----*/
+	.ecomchartinfolabel{font-size: 10px; align-items: flex-start; min-height: 34px;}
+	.chartpercarrow{font-size: 10px; padding: 9px 0 9px 5px;}
+
+	/*---- map category page -------*/
+	
+	.mapcataccr-select select{width: 175px;}
+
+
+}
+img{max-width:100%;height:auto;}

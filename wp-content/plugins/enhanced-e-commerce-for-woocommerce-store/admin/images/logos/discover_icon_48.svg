@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Discover_icon_48</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Display_icon-Copy" transform="translate(-274.000000, -515.000000)">
+            <g id="Discover_icon_48" transform="translate(270.000000, 511.000000)">
+                <g id="Discover_icon_24-2" transform="translate(4.000000, 4.000000)">
+                    <g id="Discover_icon_24">
+                        <polygon id="Rectangle-8" fill="#FBBC00" points="7.98182 3.73698 24.1982 19.9532 19.9554 24.196 3.73918 7.97962"></polygon>
+                        <rect id="Rectangle-8_2" fill="#FBBC00" fill-rule="nonzero" x="0" y="17.0004" width="22.9334" height="6"></rect>
+                        <polygon id="Rectangle-7" fill="#34A853" points="20 15.75684 24.2426 19.9994 7.97918 36.263 3.73654 32.0202"></polygon>
+                        <polygon id="Rectangle-7_2" fill="#34A853" points="17.0052 17.0004 23.0052 17.0004 23.0052 40.0004 17.0052 40.0004"></polygon>
+                        <path d="M17.0052,0 L23.0052,0 L23.0052,20 C23.0052,21.6568 21.6622,23 20.0052,23 L20.0052,23 C18.3484,23 17.0052,21.6568 17.0052,20 L17.0052,0 Z" id="Rectangle-3" fill="#EA4335" fill-rule="nonzero"></path>
+                        <path d="M32.0182,3.73698 L36.2608,7.97962 L22.1188,22.1218 C20.9472,23.2934 19.0476,23.2934 17.8762,22.1218 L17.8762,22.1218 C16.7046,20.9502 16.7046,19.0506 17.8762,17.8792 L32.0182,3.73698 Z" id="Rectangle-3_2" fill="#EA4335" fill-rule="nonzero"></path>
+                        <path d="M17.0052,20.0004 C17.0052,18.3434 18.3484,17.0004 20.0052,17.0004 L40.0052,17.0004 L40.0052,23.0004 L20.0052,23.0004 C18.3484,23.0004 17.0052,21.6572 17.0052,20.0004 L17.0052,20.0004 Z" id="arm" fill="#4285F4"></path>
+                        <path d="M17.8786,17.8782 C19.0502,16.7066 20.9498,16.7066 22.1214,17.8782 L36.2634,32.0202 L32.0208,36.263 L17.8786,22.1208 C16.7072,20.9492 16.7072,19.0498 17.8786,17.8782 L17.8786,17.8782 Z" id="arm_2" fill="#4285F4"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

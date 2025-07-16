@@ -1,0 +1,2574 @@
+# Copyright (C) 2025 Premio
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: myStickyElements 2.2.8\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/mystickyelements-free\n"
+"POT-Creation-Date: 2025-05-21 11:34:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/chatway-plugin.php:46
+msgid "Install Chatway Live Chat"
+msgstr ""
+
+#: admin/chatway-plugin.php:91 recommended-plugins.php:228
+#. translators: %s: Plugin author.
+msgid "By %s"
+msgstr ""
+
+#: admin/chatway-plugin.php:117 recommended-plugins.php:254
+msgid "Install Now"
+msgstr ""
+
+#: admin/chatway-plugin.php:139 recommended-plugins.php:276
+msgid "Update Now"
+msgstr ""
+
+#: admin/chatway-plugin.php:158 recommended-plugins.php:295
+msgid "Activate"
+msgstr ""
+
+#: admin/chatway-plugin.php:171 recommended-plugins.php:308
+msgid "Network Activate"
+msgstr ""
+
+#: admin/chatway-plugin.php:202 recommended-plugins.php:338
+#. translators: %s: Plugin name and version.
+msgid "More information about %s"
+msgstr ""
+
+#: admin/chatway-plugin.php:204 recommended-plugins.php:340
+msgid "More Details"
+msgstr ""
+
+#: admin/chatway-plugin.php:234 recommended-plugins.php:370
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr ""
+
+#: admin/chatway-plugin.php:238 recommended-plugins.php:374
+#. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
+msgid ""
+"<a href=\"%1$s\">Please update WordPress</a>, and then <a "
+"href=\"%2$s\">learn more about updating PHP</a>."
+msgstr ""
+
+#: admin/chatway-plugin.php:246 admin/chatway-plugin.php:262
+#: recommended-plugins.php:382 recommended-plugins.php:398
+#. translators: %s: URL to WordPress Updates screen.
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr ""
+
+#: admin/chatway-plugin.php:252 admin/chatway-plugin.php:271
+#: recommended-plugins.php:388 recommended-plugins.php:407
+#. translators: %s: URL to Update PHP page.
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr ""
+
+#: admin/chatway-plugin.php:258 recommended-plugins.php:394
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr ""
+
+#: admin/chatway-plugin.php:267 recommended-plugins.php:403
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr ""
+
+#: admin/chatway-plugin.php:315 recommended-plugins.php:452
+msgid "Last Updated:"
+msgstr ""
+
+#: admin/chatway-plugin.php:318 recommended-plugins.php:455
+#. translators: %s: Human-readable time difference.
+msgid "%s ago"
+msgstr ""
+
+#: admin/chatway-plugin.php:336 recommended-plugins.php:474
+#. translators: %s: Number of installations.
+msgid "%s Active Installations"
+msgstr ""
+
+#: admin/chatway-plugin.php:342 recommended-plugins.php:480
+msgid "Untested with your version of WordPress"
+msgstr ""
+
+#: admin/chatway-plugin.php:344
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr ""
+
+#: admin/chatway-plugin.php:346
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr ""
+
+#: admin/chatway.php:56 admin/stickyelements-settings.php:77
+msgid "Live Chat"
+msgstr ""
+
+#: admin/chatway.php:60
+msgid "You already have Chatway installed for live chat. "
+msgstr ""
+
+#: admin/chatway.php:63
+msgid ""
+"If you wish to disable the Live Chat for a specific page and only display "
+"the MySticky Elements widget, you can disable it from here."
+msgstr ""
+
+#: admin/chatway.php:68
+msgid "Need better way to connect with visitors?"
+msgstr ""
+
+#: admin/chatway.php:71
+msgid ""
+"Add the Chatway Live Chat widget to your website and effectively "
+"communicate with visitors with features such as:"
+msgstr ""
+
+#: admin/chatway.php:74
+msgid "Unlimited conversations, email, and Facebook Messenger integrations"
+msgstr ""
+
+#: admin/chatway.php:75
+msgid "Team collaboration with agents"
+msgstr ""
+
+#: admin/chatway.php:76
+msgid "Canned responses, private notes, reminders, and more"
+msgstr ""
+
+#: admin/chatway.php:77
+msgid "iOS & Android apps available"
+msgstr ""
+
+#: admin/chatway.php:85 admin/stickyelements-dashboard.php:261
+msgid "Manage Live Chat"
+msgstr ""
+
+#: admin/chatway.php:91
+msgid "Add Live Chat"
+msgstr ""
+
+#: admin/chatway.php:94
+msgid "You can skip this step by saving the widget"
+msgstr ""
+
+#: admin/contact-forms.php:54
+msgid "Show the Contact Form"
+msgstr ""
+
+#: admin/contact-forms.php:65
+msgid ""
+"Collect form submissions right from sticky side, top, or bottom bar of your "
+"website."
+msgstr ""
+
+#: admin/contact-forms.php:67
+msgid "Contact form in sticky bar has been turned off."
+msgstr ""
+
+#: admin/contact-forms.php:67 admin/social-media.php:20
+msgid "Turn it on"
+msgstr ""
+
+#: admin/contact-forms.php:67 admin/social-media.php:20
+msgid " to collect user submitted forms from sidebar."
+msgstr ""
+
+#: admin/contact-forms.php:71
+msgid "Disable Contact Form?"
+msgstr ""
+
+#: admin/contact-forms.php:76
+msgid ""
+"You are about to disable the <span>contact form</span>. Once disabled, the "
+"contact form will no longer be visible. Only the chat buttons or social "
+"channels will remain visible if they are enabled."
+msgstr ""
+
+#: admin/contact-forms.php:80 admin/social-media.php:44
+#: admin/sticktelements-preview.php:273 admin/stickyelements-dashboard.php:47
+msgid "Disable anyway"
+msgstr ""
+
+#: admin/contact-forms.php:80 admin/social-media.php:44
+#: admin/sticktelements-preview.php:273 admin/stickyelements-dashboard.php:47
+msgid "Keep using"
+msgstr ""
+
+#: admin/contact-forms.php:88 admin/social-media.php:29
+msgid "DISABLED"
+msgstr ""
+
+#: admin/contact-forms.php:92
+msgid "Customize Form Fields"
+msgstr ""
+
+#: admin/contact-forms.php:108 admin/contact-forms.php:155
+#: admin/contact-forms.php:219 admin/contact-forms.php:266
+msgid "Field is hidden."
+msgstr ""
+
+#: admin/contact-forms.php:108 admin/contact-forms.php:155
+#: admin/contact-forms.php:219 admin/contact-forms.php:266
+msgid "Show the field"
+msgstr ""
+
+#: admin/contact-forms.php:113 admin/contact-forms.php:117
+#: mystickyelements-admin.php:1348 mystickyelements-front.php:318
+msgid "Name"
+msgstr ""
+
+#: admin/contact-forms.php:125 admin/contact-forms.php:190
+#: admin/contact-forms.php:235 admin/contact-forms.php:281
+#: admin/contact-forms.php:347 admin/contact-forms.php:404
+msgid "Show Field"
+msgstr ""
+
+#: admin/contact-forms.php:126 admin/contact-forms.php:191
+#: admin/contact-forms.php:236 admin/contact-forms.php:282
+#: admin/contact-forms.php:348 admin/contact-forms.php:405
+msgid "Hide Field"
+msgstr ""
+
+#: admin/contact-forms.php:131 admin/contact-forms.php:196
+#: admin/contact-forms.php:241 admin/contact-forms.php:287
+#: admin/contact-forms.php:353 admin/contact-forms.php:411
+msgid "Required"
+msgstr ""
+
+#: admin/contact-forms.php:139 admin/contact-forms.php:204
+#: admin/contact-forms.php:249 admin/contact-forms.php:295
+msgid "The field is hidden and won’t show."
+msgstr ""
+
+#: admin/contact-forms.php:159 admin/contact-forms.php:163
+#: mystickyelements-admin.php:1349 mystickyelements-front.php:319
+msgid "Phone"
+msgstr ""
+
+#: admin/contact-forms.php:165
+msgid "Use country code formatting"
+msgstr ""
+
+#: admin/contact-forms.php:168
+msgid "Add country code picker for easier phone number input"
+msgstr ""
+
+#: admin/contact-forms.php:174
+msgid "Validate phone number length"
+msgstr ""
+
+#: admin/contact-forms.php:177
+msgid ""
+"It validates the phone number by checking if the length is correct for the "
+"selected country"
+msgstr ""
+
+#: admin/contact-forms.php:223 admin/contact-forms.php:227
+#: admin/contact-forms.php:604 help.php:9 mystickyelements-admin.php:1350
+#: mystickyelements-admin.php:1583 mystickyelements-front.php:320
+msgid "Email"
+msgstr ""
+
+#: admin/contact-forms.php:270 admin/contact-forms.php:274
+#: mystickyelements-admin.php:1352 mystickyelements-front.php:321
+msgid "Message"
+msgstr ""
+
+#: admin/contact-forms.php:311 admin/contact-forms.php:380
+#: admin/contact-forms.php:599 admin/contact-forms.php:650
+#: admin/contact-forms.php:663 admin/contact-forms.php:713
+#: admin/contact-forms.php:719 admin/contact-forms.php:755
+#: admin/contact-forms.php:813 admin/general-settings.php:314
+#: admin/general-settings.php:334 admin/general-settings.php:353
+#: admin/general-settings.php:375 admin/general-settings.php:432
+#: admin/general-settings.php:454 admin/general-settings.php:492
+#: admin/general-settings.php:513 admin/general-settings.php:565
+#: admin/general-settings.php:588 admin/general-settings.php:601
+#: admin/general-settings.php:652 admin/general-settings.php:667
+#: admin/general-settings.php:689 admin/general-settings.php:749
+#: admin/general-settings.php:770 admin/general-settings.php:865
+#: admin/general-settings.php:958 admin/general-settings.php:974
+#: admin/stickyelements-dashboard.php:233
+#: admin/stickyelements-dashboard.php:246
+msgid "UPGRADE NOW"
+msgstr ""
+
+#: admin/contact-forms.php:318
+msgid "Show dropdown in contact form"
+msgstr ""
+
+#: admin/contact-forms.php:323 admin/contact-forms.php:789
+msgid "Dropdown"
+msgstr ""
+
+#: admin/contact-forms.php:362
+msgid "Settings"
+msgstr ""
+
+#: admin/contact-forms.php:368
+msgid "Upgrade to Pro to use dropdown."
+msgstr ""
+
+#: admin/contact-forms.php:386
+msgid "Add a checkbox that asks for users' consent while submitting a form"
+msgstr ""
+
+#: admin/contact-forms.php:390
+msgid "Consent Checkbox"
+msgstr ""
+
+#: admin/contact-forms.php:396
+msgid "Enter contact form conset text"
+msgstr ""
+
+#: admin/contact-forms.php:419
+msgid "Upgrade to Pro to use Consent Checkbox."
+msgstr ""
+
+#: admin/contact-forms.php:430 upgrade-to-pro.php:162
+msgid ""
+"Add custom fields to your contact form including text, text area, "
+"dropdowns, file upload, website, date, and number fields"
+msgstr ""
+
+#: admin/contact-forms.php:433
+msgid "Add new field"
+msgstr ""
+
+#: admin/contact-forms.php:443
+msgid "Contact Tab Settings"
+msgstr ""
+
+#: admin/contact-forms.php:448 mystickyelements-admin.php:967
+msgid "Devices"
+msgstr ""
+
+#: admin/contact-forms.php:452 admin/general-settings.php:936
+#: mystickyelements-admin.php:978
+msgid "Desktop"
+msgstr ""
+
+#: admin/contact-forms.php:455 admin/general-settings.php:942
+#: mystickyelements-admin.php:990
+msgid "Mobile"
+msgstr ""
+
+#: admin/contact-forms.php:461
+msgid "Direction"
+msgstr ""
+
+#: admin/contact-forms.php:465
+msgid "LTR"
+msgstr ""
+
+#: admin/contact-forms.php:468
+msgid "RTL"
+msgstr ""
+
+#: admin/contact-forms.php:477
+msgid "Change the background color of the floating bar that opens the contact form"
+msgstr ""
+
+#: admin/contact-forms.php:479 admin/contact-forms.php:679
+msgid "Background Color:"
+msgstr ""
+
+#: admin/contact-forms.php:491
+msgid "Change the text color of the floating bar that opens the contact form"
+msgstr ""
+
+#: admin/contact-forms.php:493 admin/contact-forms.php:687
+msgid "Text Color:"
+msgstr ""
+
+#: admin/contact-forms.php:505
+msgid ""
+"The background color of the form that appears when someone hover/clicks to "
+"open the contact form"
+msgstr ""
+
+#: admin/contact-forms.php:507
+msgid "Form Background Color:"
+msgstr ""
+
+#: admin/contact-forms.php:519
+msgid ""
+"The headline color of the form that appears when someone hover/clicks to "
+"open the contact form"
+msgstr ""
+
+#: admin/contact-forms.php:521
+msgid "Form Headline Color:"
+msgstr ""
+
+#: admin/contact-forms.php:534
+msgid "Change the placeholder color of fields inside the contact form"
+msgstr ""
+
+#: admin/contact-forms.php:536
+msgid "Placeholder text color"
+msgstr ""
+
+#: admin/contact-forms.php:551
+msgid "Text in tab"
+msgstr ""
+
+#: admin/contact-forms.php:554 admin/contact-forms.php:567
+#: admin/contact-forms.php:698 mystickyelements-admin.php:1140
+#: mystickyelements-admin.php:1164
+msgid "Enter text here..."
+msgstr ""
+
+#: admin/contact-forms.php:559
+msgid "Contact Form Title"
+msgstr ""
+
+#: admin/contact-forms.php:583
+msgid "Save the leads locally in your website"
+msgstr ""
+
+#: admin/contact-forms.php:585
+msgid "Save leads to %s"
+msgstr ""
+
+#: admin/contact-forms.php:585
+msgid "this site"
+msgstr ""
+
+#: admin/contact-forms.php:595
+msgid "Get notified when someone submits a response to the contact form"
+msgstr ""
+
+#: admin/contact-forms.php:597
+msgid "Send leads to your email"
+msgstr ""
+
+#: admin/contact-forms.php:607
+msgid "Enter your email"
+msgstr ""
+
+#: admin/contact-forms.php:608
+msgid "Check your Spam folder and Promotions tab"
+msgstr ""
+
+#: admin/contact-forms.php:611
+msgid ""
+"If you want to send leads to more than one email address, please add your "
+"email addresses separated by commas"
+msgstr ""
+
+#: admin/contact-forms.php:617
+msgid "Sender's name"
+msgstr ""
+
+#: admin/contact-forms.php:621
+msgid "Enter sender name"
+msgstr ""
+
+#: admin/contact-forms.php:624
+msgid "The name that will appear as the sender name in your email"
+msgstr ""
+
+#: admin/contact-forms.php:630
+msgid "Email subject line"
+msgstr ""
+
+#: admin/contact-forms.php:634
+msgid "Enter your email subject line"
+msgstr ""
+
+#: admin/contact-forms.php:637
+msgid ""
+"The subject line of the emails that you'll recieve from each contact form "
+"submission"
+msgstr ""
+
+#: admin/contact-forms.php:646
+msgid "Integrate Mailchimp to directly sync email leads on Mailchimp"
+msgstr ""
+
+#: admin/contact-forms.php:648
+msgid "Send leads to Mailchimp"
+msgstr ""
+
+#: admin/contact-forms.php:659
+msgid "Integrate MailPoet to directly sync email leads on MailPoet"
+msgstr ""
+
+#: admin/contact-forms.php:661
+msgid "Send leads to MailPoet"
+msgstr ""
+
+#: admin/contact-forms.php:674
+msgid "Submit Button Settings"
+msgstr ""
+
+#: admin/contact-forms.php:695
+msgid "Text on the submit button"
+msgstr ""
+
+#: admin/contact-forms.php:704
+msgid "Redirect visitors after submission"
+msgstr ""
+
+#: admin/contact-forms.php:707
+msgid "Open in a new tab"
+msgstr ""
+
+#: admin/contact-forms.php:711
+msgid "Enter redirect link"
+msgstr ""
+
+#: admin/contact-forms.php:718
+msgid "Thank you message"
+msgstr ""
+
+#: admin/contact-forms.php:724
+msgid "Enter thank you message here..."
+msgstr ""
+
+#: admin/contact-forms.php:734
+msgid "Close form automatically after submission"
+msgstr ""
+
+#: admin/contact-forms.php:747
+msgid "Close after"
+msgstr ""
+
+#: admin/contact-forms.php:765
+msgid "Choose which custom field you'd like to add"
+msgstr ""
+
+#: admin/contact-forms.php:769
+msgid "Text"
+msgstr ""
+
+#: admin/contact-forms.php:773
+msgid "Text Area"
+msgstr ""
+
+#: admin/contact-forms.php:777
+msgid "Number"
+msgstr ""
+
+#: admin/contact-forms.php:781 mystickyelements-admin.php:1363
+msgid "Date"
+msgstr ""
+
+#: admin/contact-forms.php:785
+msgid "Website"
+msgstr ""
+
+#: admin/contact-forms.php:793
+msgid "File upload"
+msgstr ""
+
+#: admin/contact-forms.php:797
+msgid "Country Dropdown"
+msgstr ""
+
+#: admin/contact-forms.php:801
+msgid "IP Log"
+msgstr ""
+
+#: admin/contact-forms.php:805
+msgid "reCAPTCHA"
+msgstr ""
+
+#: admin/contact-forms.php:809
+msgid "Text Block"
+msgstr ""
+
+#: admin/contact-forms.php:828
+msgid "Select..."
+msgstr ""
+
+#: admin/contact-forms.php:832
+msgid "Add"
+msgstr ""
+
+#: admin/contact-forms.php:850 admin/stickyelements-settings.php:103
+msgid "Save"
+msgstr ""
+
+#: admin/contact-forms.php:857
+msgid "Upgrade to pro for more options"
+msgstr ""
+
+#: admin/contact-forms.php:863
+msgid ""
+"The free version allows you to save the form submissions (form leads) "
+"locally to your website. If you want to send leads to your email, or "
+"automatically sync leads to Mailchimp or Mailpoet, consider upgrading to "
+"the premium version."
+msgstr ""
+
+#: admin/email-signup.php:361
+msgid "We Only Email When It's Worth It"
+msgstr ""
+
+#: admin/email-signup.php:366
+msgid "Plugin updates and features for improved performance"
+msgstr ""
+
+#: admin/email-signup.php:370
+msgid "Important security updates for site safety"
+msgstr ""
+
+#: admin/email-signup.php:375
+msgid "Limited-time offers for WordPress users seeking growth"
+msgstr ""
+
+#: admin/email-signup.php:383
+msgid "Your Email Address"
+msgstr ""
+
+#: admin/email-signup.php:388
+msgid "Count Me In"
+msgstr ""
+
+#: admin/email-signup.php:396
+msgid "Maybe Later"
+msgstr ""
+
+#: admin/email-signup.php:410
+msgid "Website Owners"
+msgstr ""
+
+#: admin/email-signup.php:422
+msgid "No Spam Ever"
+msgstr ""
+
+#: admin/email-signup.php:423
+msgid "Unsubscribe Anytime"
+msgstr ""
+
+#: admin/general-settings.php:40 admin/stickyelements-settings.php:71
+msgid "Display & Behavior Settings"
+msgstr ""
+
+#: admin/general-settings.php:45
+msgid "Templates"
+msgstr ""
+
+#: admin/general-settings.php:49
+msgid "Default"
+msgstr ""
+
+#: admin/general-settings.php:50
+msgid "Sharp "
+msgstr ""
+
+#: admin/general-settings.php:51
+msgid "Rounded"
+msgstr ""
+
+#: admin/general-settings.php:52
+msgid "Leaf right"
+msgstr ""
+
+#: admin/general-settings.php:53
+msgid "Round"
+msgstr ""
+
+#: admin/general-settings.php:54
+msgid "Diamond"
+msgstr ""
+
+#: admin/general-settings.php:55
+msgid "Leaf left"
+msgstr ""
+
+#: admin/general-settings.php:56
+msgid "Arrow"
+msgstr ""
+
+#: admin/general-settings.php:57
+msgid "Triangle"
+msgstr ""
+
+#: admin/general-settings.php:64
+msgid "Position on desktop"
+msgstr ""
+
+#: admin/general-settings.php:68 admin/general-settings.php:89
+#: admin/general-settings.php:100
+msgid "Left"
+msgstr ""
+
+#: admin/general-settings.php:69 admin/general-settings.php:90
+#: admin/general-settings.php:101
+msgid "Right"
+msgstr ""
+
+#: admin/general-settings.php:70 admin/general-settings.php:103
+msgid "Bottom"
+msgstr ""
+
+#: admin/general-settings.php:84
+msgid "Position on screen"
+msgstr ""
+
+#: admin/general-settings.php:88
+msgid "Center"
+msgstr ""
+
+#: admin/general-settings.php:96
+msgid "Position on mobile"
+msgstr ""
+
+#: admin/general-settings.php:102
+msgid "Top"
+msgstr ""
+
+#: admin/general-settings.php:122
+msgid "Configure when the tabs will slide out with the full text"
+msgstr ""
+
+#: admin/general-settings.php:124
+msgid "Open tabs when"
+msgstr ""
+
+#: admin/general-settings.php:132
+msgid "Hover"
+msgstr ""
+
+#: admin/general-settings.php:138
+msgid "Click"
+msgstr ""
+
+#: admin/general-settings.php:151
+msgid ""
+"If enabled, first click would open the flyout menu and second click would "
+"take users to the actual link"
+msgstr ""
+
+#: admin/general-settings.php:153
+msgid "Flyout Option"
+msgstr ""
+
+#: admin/general-settings.php:162
+msgid "First click opens the flyout"
+msgstr ""
+
+#: admin/general-settings.php:168
+msgid "First click opens the link"
+msgstr ""
+
+#: admin/general-settings.php:179
+msgid "Font Family"
+msgstr ""
+
+#: admin/general-settings.php:183
+msgid "Select font family"
+msgstr ""
+
+#: admin/general-settings.php:202
+msgid ""
+"Disabling the feature will stop loading the fonts from  Google's server and "
+"you have to manually load the font to make it work"
+msgstr ""
+
+#: admin/general-settings.php:204
+msgid "Load Google fonts from Google (By default stays turned on)"
+msgstr ""
+
+#: admin/general-settings.php:218
+msgid "Desktop Widget Size"
+msgstr ""
+
+#: admin/general-settings.php:223 admin/general-settings.php:238
+msgid "Small"
+msgstr ""
+
+#: admin/general-settings.php:224 admin/general-settings.php:239
+msgid "Medium"
+msgstr ""
+
+#: admin/general-settings.php:225 admin/general-settings.php:240
+msgid "Large"
+msgstr ""
+
+#: admin/general-settings.php:226
+msgid "Extra Large"
+msgstr ""
+
+#: admin/general-settings.php:233
+msgid "Mobile Widget size"
+msgstr ""
+
+#: admin/general-settings.php:247
+msgid "Entry effect"
+msgstr ""
+
+#: admin/general-settings.php:252
+msgid "None"
+msgstr ""
+
+#: admin/general-settings.php:253
+msgid "Slide in"
+msgstr ""
+
+#: admin/general-settings.php:254
+msgid "Fade"
+msgstr ""
+
+#: admin/general-settings.php:262
+msgid ""
+"When the visitor opens the website, the selected channel tab or contact "
+"form will be opened by default. If the visitor closes the tab, hovers over "
+"another channel icon, or visits the channel link it would remain closed."
+msgstr ""
+
+#: admin/general-settings.php:264
+msgid "Open tab by default"
+msgstr ""
+
+#: admin/general-settings.php:281
+msgid "Select open channel"
+msgstr ""
+
+#: admin/general-settings.php:286
+msgid "Contact Form"
+msgstr ""
+
+#: admin/general-settings.php:306
+msgid ""
+"Grab your visitors' attention and increase interaction rates with subtle "
+"animations. Choose how your widget appears when the page loads."
+msgstr ""
+
+#: admin/general-settings.php:312
+msgid "Attention Effect"
+msgstr ""
+
+#: admin/general-settings.php:320
+msgid "Select Attention Effect"
+msgstr ""
+
+#: admin/general-settings.php:329
+msgid ""
+"Your My Sticky Elements widget will first appear to the user according to "
+"the selected trigger. After the widget appeared for the first time, it'll "
+"always be visible on-load - once the user is aware of the widget, the user "
+"expects it to always appear"
+msgstr ""
+
+#: admin/general-settings.php:331
+msgid "Display after"
+msgstr ""
+
+#: admin/general-settings.php:339
+msgid "seconds on the page"
+msgstr ""
+
+#: admin/general-settings.php:348
+msgid "Set a scroll percentage after which the widget becomes visible"
+msgstr ""
+
+#: admin/general-settings.php:350
+msgid "Visible after scrolling"
+msgstr ""
+
+#: admin/general-settings.php:358
+msgid "% of the page"
+msgstr ""
+
+#: admin/general-settings.php:371 upgrade-to-pro.php:190
+msgid ""
+"Show or don't show the widget on specific pages. You can use rules like "
+"contains, exact match, starts with, and ends with. WordPress pages, posts, "
+"tags, and categories are also options. If you have a WooCommerce store, you "
+"can choose any products or only the products that are currently on sale."
+msgstr ""
+
+#: admin/general-settings.php:373
+msgid "Show on Pages"
+msgstr ""
+
+#: admin/general-settings.php:395 admin/general-settings.php:621
+msgid "Link that contain"
+msgstr ""
+
+#: admin/general-settings.php:396 admin/general-settings.php:622
+msgid "A specific link"
+msgstr ""
+
+#: admin/general-settings.php:397 admin/general-settings.php:623
+msgid "Links starting with"
+msgstr ""
+
+#: admin/general-settings.php:398 admin/general-settings.php:624
+msgid "Links ending with"
+msgstr ""
+
+#: admin/general-settings.php:399 admin/general-settings.php:625
+msgid "WordPress Pages"
+msgstr ""
+
+#: admin/general-settings.php:400 admin/general-settings.php:626
+msgid "WordPress Posts"
+msgstr ""
+
+#: admin/general-settings.php:401 admin/general-settings.php:627
+msgid "WordPress Categories"
+msgstr ""
+
+#: admin/general-settings.php:402 admin/general-settings.php:628
+msgid "WordPress Tags"
+msgstr ""
+
+#: admin/general-settings.php:405 admin/general-settings.php:631
+msgid "WooCommerce products"
+msgstr ""
+
+#: admin/general-settings.php:406 admin/general-settings.php:632
+msgid "WooCommerce products on sale"
+msgstr ""
+
+#: admin/general-settings.php:415
+msgid "Pages"
+msgstr ""
+
+#: admin/general-settings.php:416
+msgid "Posts"
+msgstr ""
+
+#: admin/general-settings.php:417
+msgid "Categories"
+msgstr ""
+
+#: admin/general-settings.php:418
+msgid "Tags"
+msgstr ""
+
+#: admin/general-settings.php:419 admin/general-settings.php:420
+msgid "Products"
+msgstr ""
+
+#: admin/general-settings.php:437 admin/general-settings.php:498
+#: admin/general-settings.php:571 admin/general-settings.php:870
+msgid "Remove Rules"
+msgstr ""
+
+#: admin/general-settings.php:450 upgrade-to-pro.php:206
+msgid ""
+"Display the widget on specific days and hours based on your opening days "
+"and hours"
+msgstr ""
+
+#: admin/general-settings.php:452
+msgid "Days and Hours"
+msgstr ""
+
+#: admin/general-settings.php:497 admin/general-settings.php:570
+#: admin/general-settings.php:869
+msgid "Add Rule"
+msgstr ""
+
+#: admin/general-settings.php:509
+msgid ""
+"Set the date and time for when you want the widget to start showing and the "
+"time you would like it to stop showing. You can add up to 12 combinations "
+"of \"on and off\" triggers. This feature may be useful when you have an "
+"upcoming limited-time offer."
+msgstr ""
+
+#: admin/general-settings.php:511
+msgid "Date Scheduling"
+msgstr ""
+
+#: admin/general-settings.php:519
+msgid "Timezone"
+msgstr ""
+
+#: admin/general-settings.php:521
+msgid "Select a city or country"
+msgstr ""
+
+#: admin/general-settings.php:529
+msgid "Start date "
+msgstr ""
+
+#: admin/general-settings.php:532
+msgid ""
+"Schedule a date from which the widget will be displayed (the starting date "
+"is included)"
+msgstr ""
+
+#: admin/general-settings.php:538
+msgid "Start time "
+msgstr ""
+
+#: admin/general-settings.php:545
+msgid "End date "
+msgstr ""
+
+#: admin/general-settings.php:548
+msgid ""
+"Schedule a date from which the widget will stop being displayed (the end "
+"date is included)"
+msgstr ""
+
+#: admin/general-settings.php:554
+msgid "End time "
+msgstr ""
+
+#: admin/general-settings.php:584 upgrade-to-pro.php:194
+msgid ""
+"Target your widget to specific countries. You can create different widgets "
+"for different countries"
+msgstr ""
+
+#: admin/general-settings.php:586 upgrade-to-pro.php:193
+msgid "Country targeting"
+msgstr ""
+
+#: admin/general-settings.php:592 admin/general-settings.php:596
+msgid "All countries"
+msgstr ""
+
+#: admin/general-settings.php:659
+msgid "More Settings"
+msgstr ""
+
+#: admin/general-settings.php:666
+msgid "On-Screen Position Y Desktop"
+msgstr ""
+
+#: admin/general-settings.php:688
+msgid "On-Screen Position Y Mobile"
+msgstr ""
+
+#: admin/general-settings.php:713
+msgid ""
+"When turned on (on mobile), the first tap, will show the hover text first "
+"and it'll stay until the second tap"
+msgstr ""
+
+#: admin/general-settings.php:715
+msgid "Improved mobile behavior"
+msgstr ""
+
+#: admin/general-settings.php:724
+msgid "First tap opens link"
+msgstr ""
+
+#: admin/general-settings.php:730
+msgid "First tap opens flyout"
+msgstr ""
+
+#: admin/general-settings.php:744
+msgid "If enabled, you can track clicks to your widget using "
+msgstr ""
+
+#: admin/general-settings.php:744 upgrade-to-pro.php:209
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/general-settings.php:746
+msgid "Google Analytics Events"
+msgstr ""
+
+#: admin/general-settings.php:766 upgrade-to-pro.php:202
+msgid ""
+"Show the widget only to visitors who come from specific traffic sources "
+"including direct traffic, social networks, search engines, Google Ads, or "
+"any other traffic source"
+msgstr ""
+
+#: admin/general-settings.php:768
+msgid "Traffic source"
+msgstr ""
+
+#: admin/general-settings.php:781
+msgid "Show the widget to visitors who arrived to your website from direct traffic"
+msgstr ""
+
+#: admin/general-settings.php:796
+msgid ""
+"Show the widget to visitors who arrived to your website from social "
+"networks including: Facebook, Twitter, Pinterest, Instagram, Google+, "
+"LinkedIn, Delicious, Tumblr, Dribbble, StumbleUpon, Flickr, Plaxo, Digg and "
+"more"
+msgstr ""
+
+#: admin/general-settings.php:811 admin/general-settings.php:826
+msgid ""
+"Show the widget to visitors who arrived from search engines including: "
+"Google, Bing, Yahoo!, Yandex, AOL, Ask, WOW,  WebCrawler, Baidu and more"
+msgstr ""
+
+#: admin/general-settings.php:880
+msgid ""
+"The form will automatically open up on page load until the user closes the "
+"form or fills out the form"
+msgstr ""
+
+#: admin/general-settings.php:882
+msgid "Open the form automatically"
+msgstr ""
+
+#: admin/general-settings.php:892
+msgid "Display after "
+msgstr ""
+
+#: admin/general-settings.php:894
+msgid " seconds on the page"
+msgstr ""
+
+#: admin/general-settings.php:904
+msgid "If enabled, a small black button will appear on top to minimize the widget"
+msgstr ""
+
+#: admin/general-settings.php:907
+msgid "Minimize tab"
+msgstr ""
+
+#: admin/general-settings.php:925
+msgid ""
+"If enabled, the widget will be hidden by default and will show an icon "
+"instead to restore to its full size"
+msgstr ""
+
+#: admin/general-settings.php:928
+msgid "Minimized bar on load"
+msgstr ""
+
+#: admin/general-settings.php:955
+msgid "Write custom CSS to customize the tabs"
+msgstr ""
+
+#: admin/general-settings.php:957
+msgid "Tabs CSS"
+msgstr ""
+
+#: admin/general-settings.php:971
+msgid "Write custom CSS to customize the form"
+msgstr ""
+
+#: admin/general-settings.php:973
+msgid "Form CSS"
+msgstr ""
+
+#: admin/general-settings.php:985
+msgid "Less Settings"
+msgstr ""
+
+#: admin/social-media.php:15
+msgid "Show Chat & Social Icons"
+msgstr ""
+
+#: admin/social-media.php:20
+msgid "Social channels in sticky bar has been turned off."
+msgstr ""
+
+#: admin/social-media.php:23
+msgid "Enable your preferred social channels"
+msgstr ""
+
+#: admin/social-media.php:35
+msgid "Disable Social Channels?"
+msgstr ""
+
+#: admin/social-media.php:40
+msgid ""
+"You are about to disable the <span>social channels and chat options</span>. "
+"Once disabled, they will no longer be visible. Only the contact form will "
+"appear if it is enabled."
+msgstr ""
+
+#: admin/social-media.php:48
+msgid "Quick Search"
+msgstr ""
+
+#: admin/social-media.php:107
+msgid "Show More Channels"
+msgstr ""
+
+#: admin/social-media.php:111
+msgid "Custom Channel"
+msgstr ""
+
+#: admin/social-media.php:115
+msgid ""
+"Use custom channels to link to any web page, social service or even custom "
+"JavaScript code. "
+msgstr ""
+
+#: admin/social-media.php:115
+msgid "Learn more"
+msgstr ""
+
+#: admin/social-media.php:116
+msgid "How custom channels work?"
+msgstr ""
+
+#: admin/social-media.php:120
+msgid "Custom Shortcode"
+msgstr ""
+
+#: admin/social-media.php:124
+msgid "Add a custom shortcode/Iframe/HTML to your widget. Learn more or check out "
+msgstr ""
+
+#: admin/social-media.php:124
+msgid "some inspirations"
+msgstr ""
+
+#: admin/social-media.php:125
+msgid "How shortcodes work?"
+msgstr ""
+
+#: admin/social-media.php:140
+msgid "Get unlimited channels in the Pro plan"
+msgstr ""
+
+#: admin/social-media.php:141
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/social-media.php:146
+msgid "Customize Channel Specific Behavior"
+msgstr ""
+
+#: admin/sticktelements-preview.php:246
+msgid ""
+"The default template is the only template that is currently available for "
+"the mobile bottom position"
+msgstr ""
+
+#: admin/sticktelements-preview.php:250
+msgid "Live Preview"
+msgstr ""
+
+#: admin/sticktelements-preview.php:266 admin/stickyelements-dashboard.php:42
+#: recommended-plugins.php:495
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/sticktelements-preview.php:270
+msgid ""
+"You're about to turn off loading Google fonts from Google server. By "
+"turning it off, fonts will not be loaded by default and you have to "
+"manually load them to use properly. Are you sure?"
+msgstr ""
+
+#: admin/sticktelements-preview.php:279
+msgid "Missing link"
+msgstr ""
+
+#: admin/sticktelements-preview.php:286
+msgid "I'll do it later"
+msgstr ""
+
+#: admin/sticktelements-preview.php:286
+msgid "Ok"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:20 class-email-signup.php:60
+msgid "My Sticky Elements"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:21
+msgid "Edit"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:22
+msgid "Status"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:23
+msgid "Quick Action"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:45
+msgid ""
+"You're about to turn off the widget. By turning it off, this widget won't "
+"appear on your website. Are you sure?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:55 admin/stickyelements-dashboard.php:87
+msgid "Rename"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:58
+msgid "Duplicate"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:61 mystickyelements-admin.php:1366
+#: mystickyelements-admin.php:1453
+msgid "Delete"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:65
+msgid "Are you sure about deleting the widget?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:70
+msgid ""
+"Are you sure want to delete the widget? By doing this, you'll delete your "
+"saved settings, channels, & information within the widget. You will lose "
+"the widget permanently and will not be able to retrieve it."
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:74 admin/stickyelements-dashboard.php:87
+#: mystickyelements-deactivate-form.php:141
+msgid "Cancel"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:74
+msgid "Delete anyway"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:81
+msgid "Rename widget"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:162
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:166
+msgid "How to use MyStickyElements like a pro?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:167
+msgid "How do I change or translate My Sticky Elements placeholders?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:168
+msgid "How do I send my contact form leads to email?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:169
+msgid "How do I create a custom link or JavaScript channel?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:170
+msgid "How do I create a custom shortcode/HTML channel to your widget?"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:173
+msgid "Explore all docs"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:181
+msgid "RECENT FORM LEADS"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:200
+msgid "View all leads"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:209
+msgid "You're all caught up."
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:209
+msgid "When you receive a new lead, it'll show up here."
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:219
+msgid "INTEGRATION"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:227
+msgid "Mailchimp"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:228
+msgid " Sync your leads automatically to your Mailchimp list"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:231
+#: admin/stickyelements-dashboard.php:244
+#: mystickyelements-admin-integration.php:57
+msgid "Connect"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:240
+msgid "Mailpoet"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:241
+msgid "Sync your leads automatically to your Mailpoet list"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:257
+msgid "Chatway"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:266
+msgid "Connect with customers through Live Chat"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:269
+msgid ""
+"Chatway empowers you and your team to provide live chat support "
+"effortlessly to your visitors."
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:273
+msgid "Add A Live Chat Widget"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:287 mystickyelements-admin.php:632
+msgid "Welcome to My Sticky Elements"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:292
+msgid ""
+"Add different elements like forms, chat icons, social media icon channels, "
+"custom fields, and combine them together into 1 element"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:293
+msgid "Customize your form, chat, and social icons as you see fit"
+msgstr ""
+
+#: admin/stickyelements-dashboard.php:294
+msgid ""
+"Configure triggers & targeting rules for the behavior of the widget. "
+"Explore advanced settings for fine tuning even the smallest detail"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:27
+msgid "Seems like My Sticky Elements is bringing you value 🥳"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:28
+msgid ""
+"Can you please show us some love and rate %s My Sticky Elements %s? It'll "
+"really help us spread the word "
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:33
+#: admin/stickyelements-review-popup.php:40
+msgid "rating"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:36
+msgid "Share Your Experience"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:42
+msgid "Review (optional)"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:43
+msgid "Please write your review here"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:46
+#: admin/stickyelements-review-popup.php:60 class-review-box.php:528
+msgid "Submit"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:50
+msgid "Would you like to be reminded in the future?"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:52
+msgid "Remind me after"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:54
+msgid "7 Days"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:55
+msgid "14 Days"
+msgstr ""
+
+#: admin/stickyelements-review-popup.php:56
+msgid "Don't remind me"
+msgstr ""
+
+#: admin/stickyelements-settings.php:59
+msgid "Add Contact Form"
+msgstr ""
+
+#: admin/stickyelements-settings.php:60
+msgid "Collect form responses"
+msgstr ""
+
+#: admin/stickyelements-settings.php:65
+msgid "Add Chat and Social media"
+msgstr ""
+
+#: admin/stickyelements-settings.php:66
+msgid "Integrate chat & social media"
+msgstr ""
+
+#: admin/stickyelements-settings.php:72
+msgid "Triggers & targeting"
+msgstr ""
+
+#: admin/stickyelements-settings.php:78
+msgid "Add a Chatway live chat widget"
+msgstr ""
+
+#: admin/stickyelements-settings.php:83
+msgid "Settings saved."
+msgstr ""
+
+#: admin/stickyelements-settings.php:97
+msgid "Back"
+msgstr ""
+
+#: admin/stickyelements-settings.php:100
+msgid "Next"
+msgstr ""
+
+#: admin/stickyelements-settings.php:106
+msgid "Save & View Dashboard"
+msgstr ""
+
+#: class-email-signup.php:61
+msgid "Join the list 40,000+ users trust"
+msgstr ""
+
+#: class-email-signup.php:62
+msgid "40,000+"
+msgstr ""
+
+#: class-email-signup.php:63
+msgid "4.9/5 Rating"
+msgstr ""
+
+#: class-email-signup.php:64
+msgid "Based on 500+ Reviews"
+msgstr ""
+
+#: class-review-box.php:463
+msgid "Your"
+msgstr ""
+
+#: class-review-box.php:463
+msgid "feedback"
+msgstr ""
+
+#: class-review-box.php:463
+msgid "matters, please leave a review"
+msgstr ""
+
+#: class-review-box.php:470
+msgid ""
+"Hi there, it seems like %s is bringing you some value, and that's pretty "
+"awesome! Can you please show us some love and rate %s on WordPress? It'll "
+"only take 2 minutes of your time, and will really help us spread the word"
+msgstr ""
+
+#: class-review-box.php:474
+msgid "Gal Dubinski"
+msgstr ""
+
+#: class-review-box.php:475
+msgid "Co-founder"
+msgstr ""
+
+#: class-review-box.php:481
+msgid "Please rate us:"
+msgstr ""
+
+#: class-review-box.php:495
+msgid "You are awesome "
+msgstr ""
+
+#: class-review-box.php:496
+msgid "Thanks for your support, we really appreciate it!"
+msgstr ""
+
+#: class-review-box.php:497
+msgid "Premio team "
+msgstr ""
+
+#: class-review-box.php:509
+msgid "Would you like us to remind you about this later?"
+msgstr ""
+
+#: class-review-box.php:513
+msgid "Remind me in 3 days "
+msgstr ""
+
+#: class-review-box.php:514
+msgid "Remind me in 10 days "
+msgstr ""
+
+#: class-review-box.php:515
+msgid "Don't remind me about this "
+msgstr ""
+
+#: help.php:7
+msgid ""
+"Hello! Are you experiencing any problems with My Sticky Elements? Please "
+"let me know :)"
+msgstr ""
+
+#: help.php:12
+msgid "How can I help you?"
+msgstr ""
+
+#: help.php:15 help.php:50
+msgid "Chat"
+msgstr ""
+
+#: help.php:29 help.php:31 mystickyelements-admin.php:37
+msgid "Need help?"
+msgstr ""
+
+#: help.php:38
+msgid "Sending Request..."
+msgstr ""
+
+#: help.php:56
+msgid "Done!"
+msgstr ""
+
+#: help.php:59
+msgid "Your message was sent successfully."
+msgstr ""
+
+#: help.php:62
+msgid ""
+"There is some problem in sending request. Please send us mail on <a "
+"href='mailto:contact@premio.io'>contact@premio.io</a>"
+msgstr ""
+
+#: mystickyelements-admin-integration.php:24
+msgid ""
+"Upgrade to Pro and connect your My Sticky Elements form to the following "
+"platforms to automatically receive leads"
+msgstr ""
+
+#: mystickyelements-admin-widgetanalytics.php:19
+msgid "Unlock My Sticky Elements <span>Analytics</span> 🚀"
+msgstr ""
+
+#: mystickyelements-admin-widgetanalytics.php:23
+#: mystickyelements-admin-widgetanalytics.php:49
+msgid "Upgrade to Pro 🚀"
+msgstr ""
+
+#: mystickyelements-admin-widgetanalytics.php:31
+msgid "What can you use it for?"
+msgstr ""
+
+#: mystickyelements-admin-widgetanalytics.php:35
+msgid "<strong>Discover</strong> the most frequently used channels"
+msgstr ""
+
+#: mystickyelements-admin-widgetanalytics.php:39
+msgid "Keep <strong>track</strong> of how each widget performs"
+msgstr ""
+
+#: mystickyelements-admin-widgetanalytics.php:43
+msgid ""
+"<strong>Analyze</strong> the number of unique clicks and the "
+"<strong>click-through rate</strong>"
+msgstr ""
+
+#: mystickyelements-admin.php:39
+msgid "Upgrade"
+msgstr ""
+
+#: mystickyelements-admin.php:110
+msgid ""
+"Please remove the JavaScript from the channels or ask the website's "
+"administrator to give you access to add JavaScript."
+msgstr ""
+
+#: mystickyelements-admin.php:111
+msgid "Remove"
+msgstr ""
+
+#: mystickyelements-admin.php:302 mystickyelements-admin.php:1265
+msgid "Unable to complete your request"
+msgstr ""
+
+#: mystickyelements-admin.php:639 mystickyelements-popup.php:2
+msgid ""
+"Select your contact form fields, chat, and social channels. Need help? "
+"Visit our "
+msgstr ""
+
+#: mystickyelements-admin.php:639 mystickyelements-popup.php:2
+msgid "Help Center"
+msgstr ""
+
+#: mystickyelements-admin.php:639 mystickyelements-popup.php:2
+msgid " and check the video."
+msgstr ""
+
+#: mystickyelements-admin.php:660
+msgid "Congratulations 🎉"
+msgstr ""
+
+#: mystickyelements-admin.php:661
+msgid ""
+"You just got your first My Sticky Elements lead. Click on the Show Me "
+"button to display your contact form leads"
+msgstr ""
+
+#: mystickyelements-admin.php:704
+msgid "Icons' text isn't supported in this template"
+msgstr ""
+
+#: mystickyelements-admin.php:705
+msgid ""
+"The selected template doesn't support icons'text, please change to the "
+"Default templates. Would you like to publish it anyway?"
+msgstr ""
+
+#: mystickyelements-admin.php:725
+msgid "Congratulations! 🎉"
+msgstr ""
+
+#: mystickyelements-admin.php:726
+msgid "Your first widget is now up and running on your website!"
+msgstr ""
+
+#: mystickyelements-admin.php:728
+msgid "Upgrade to pro today"
+msgstr ""
+
+#: mystickyelements-admin.php:729
+msgid "🛠️ Show unlimited social icon such as Whatsapp,twitter,phone and so on"
+msgstr ""
+
+#: mystickyelements-admin.php:730
+msgid "📱Create multiple widgets for different devices, pages and languages."
+msgstr ""
+
+#: mystickyelements-admin.php:731
+msgid "📈 Unlock analytics about each channel usage and different widgets "
+msgstr ""
+
+#: mystickyelements-admin.php:732
+msgid ""
+"📩 Get contact form leads to Your email and integrate with MailChimp and "
+"MailPoet"
+msgstr ""
+
+#: mystickyelements-admin.php:734 mystickyelements.php:3681
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: mystickyelements-admin.php:735
+msgid "Close"
+msgstr ""
+
+#: mystickyelements-admin.php:937
+msgid "Icon link"
+msgstr ""
+
+#: mystickyelements-admin.php:999
+msgid "Open link in a new tab"
+msgstr ""
+
+#: mystickyelements-admin.php:1012
+msgid "Appearance Settings"
+msgstr ""
+
+#: mystickyelements-admin.php:1026
+msgid "Upload Custom Icon"
+msgstr ""
+
+#: mystickyelements-admin.php:1048
+msgid "Stretch custom icon"
+msgstr ""
+
+#: mystickyelements-admin.php:1059
+msgid "Select FontAwesome Icon"
+msgstr ""
+
+#: mystickyelements-admin.php:1073
+msgid "Channel Type"
+msgstr ""
+
+#: mystickyelements-admin.php:1080 mystickyelements-front.php:802
+msgid "Custom channel"
+msgstr ""
+
+#: mystickyelements-admin.php:1099
+msgid "Background Color"
+msgstr ""
+
+#: mystickyelements-admin.php:1110
+msgid "Icon Color"
+msgstr ""
+
+#: mystickyelements-admin.php:1122
+msgid "Icon Text Color"
+msgstr ""
+
+#: mystickyelements-admin.php:1133
+msgid "Icon Text"
+msgstr ""
+
+#: mystickyelements-admin.php:1145
+msgid "Icon Text Size"
+msgstr ""
+
+#: mystickyelements-admin.php:1152
+msgid "Enter font size here..."
+msgstr ""
+
+#: mystickyelements-admin.php:1157
+msgid "Flyout Text"
+msgstr ""
+
+#: mystickyelements-admin.php:1171
+msgid "Pre Set Message"
+msgstr ""
+
+#: mystickyelements-admin.php:1174
+msgid ""
+"Add your own pre-set message that's automatically added to the user's "
+"message. You can also use merge tags and add the URL or the title of the "
+"current visitor's page. E.g. you can add the current URL of a product to "
+"the message so you know which product the visitor is talking about when the "
+"visitor messages you"
+msgstr ""
+
+#: mystickyelements-admin.php:1181
+msgid "Enter message here..."
+msgstr ""
+
+#: mystickyelements-admin.php:1185
+msgid "{title} tag grabs the page title of the webpage"
+msgstr ""
+
+#: mystickyelements-admin.php:1186
+msgid "{url} tag grabs the URL of the webpage"
+msgstr ""
+
+#: mystickyelements-admin.php:1191
+msgid "Use WhatsApp Web directly on desktop"
+msgstr ""
+
+#: mystickyelements-admin.php:1196
+msgid ""
+"Automatically send desktop visitors to WhatsApp Web by turning on the "
+"feature"
+msgstr ""
+
+#: mystickyelements-admin.php:1219
+msgid "Remove channel"
+msgstr ""
+
+#: mystickyelements-admin.php:1286
+msgid "Contact Form Leads"
+msgstr ""
+
+#: mystickyelements-admin.php:1288
+msgid ""
+"Contact's data is saved locally do make backup or export before "
+"uninstalling plugin"
+msgstr ""
+
+#: mystickyelements-admin.php:1295
+msgid "Download & Export All Subscriber to CSV file:"
+msgstr ""
+
+#: mystickyelements-admin.php:1297
+msgid "Download & Export to CSV"
+msgstr ""
+
+#: mystickyelements-admin.php:1301
+msgid "Delete All Subscibers from Database:"
+msgstr ""
+
+#: mystickyelements-admin.php:1303
+msgid "Delete All Data"
+msgstr ""
+
+#: mystickyelements-admin.php:1337 mystickyelements-admin.php:1339
+msgid "Search"
+msgstr ""
+
+#: mystickyelements-admin.php:1345
+msgid "Bulk"
+msgstr ""
+
+#: mystickyelements-admin.php:1346
+msgid "ID"
+msgstr ""
+
+#: mystickyelements-admin.php:1347
+msgid "Widget Name"
+msgstr ""
+
+#: mystickyelements-admin.php:1351
+msgid "Option"
+msgstr ""
+
+#: mystickyelements-admin.php:1353
+msgid "Consent"
+msgstr ""
+
+#: mystickyelements-admin.php:1364
+msgid "URL"
+msgstr ""
+
+#: mystickyelements-admin.php:1365
+msgid "IP Address"
+msgstr ""
+
+#: mystickyelements-admin.php:1460
+msgid "No Contact Form Leads Found!"
+msgstr ""
+
+#: mystickyelements-admin.php:1571
+msgid "%s is required"
+msgstr ""
+
+#: mystickyelements-admin.php:1576
+msgid "Please enter your message"
+msgstr ""
+
+#: mystickyelements-admin.php:1783
+msgid "Your request is not valid"
+msgstr ""
+
+#: mystickyelements-deactivate-form.php:122
+msgid "Quick feedback about My Sticky Elements"
+msgstr ""
+
+#: mystickyelements-deactivate-form.php:125
+msgid ""
+"Your feedback will help us improve the product, please tell us why did you "
+"decide to deactivate My Sticky Elements :)"
+msgstr ""
+
+#: mystickyelements-deactivate-form.php:127
+msgid "Email address"
+msgstr ""
+
+#: mystickyelements-deactivate-form.php:130
+msgid "Your comment"
+msgstr ""
+
+#: mystickyelements-deactivate-form.php:135
+msgid "Anonymous feedback"
+msgstr ""
+
+#: mystickyelements-front.php:345 mystickyelements-front.php:357
+#: mystickyelements-front.php:370 mystickyelements-front.php:382
+#: mystickyelements-front.php:392
+msgid "*"
+msgstr ""
+
+#: mystickyelements-front.php:897 mystickyelements-front.php:1040
+msgid "Something went wrong. Please contact site administrator"
+msgstr ""
+
+#: mystickyelements-front.php:1036
+msgid "Your request is submitted successfully"
+msgstr ""
+
+#: mystickyelements-front.php:1060
+msgid "Your message was sent successfully"
+msgstr ""
+
+#: mystickyelements-popup.php:1
+msgid "Welcome to My Sticky Elements &#127881;"
+msgstr ""
+
+#: mystickyelements-widget.php:2
+msgid ""
+"Create a new My Sticky Elements widgets for your website. What can you use "
+"it for?"
+msgstr ""
+
+#: mystickyelements.php:113
+msgid "myStickylements Settings"
+msgstr ""
+
+#: mystickyelements.php:269 mystickyelements.php:312 mystickyelements.php:391
+#: mystickyelements.php:471 mystickyelements.php:550 mystickyelements.php:629
+#: mystickyelements.php:711 mystickyelements.php:796 mystickyelements.php:878
+#: mystickyelements.php:960 mystickyelements.php:1042
+msgid "myStickyElements Options"
+msgstr ""
+
+#: mystickyelements.php:276
+msgid "Disable at Small Screen Sizes"
+msgstr ""
+
+#: mystickyelements.php:292
+msgid "Change on Event"
+msgstr ""
+
+#: mystickyelements.php:300
+msgid "CSS style"
+msgstr ""
+
+#: mystickyelements.php:318 mystickyelements.php:397 mystickyelements.php:477
+#: mystickyelements.php:556 mystickyelements.php:635 mystickyelements.php:717
+#: mystickyelements.php:802 mystickyelements.php:884 mystickyelements.php:966
+#: mystickyelements.php:1048
+msgid "Enable Element"
+msgstr ""
+
+#: mystickyelements.php:325 mystickyelements.php:405 mystickyelements.php:484
+#: mystickyelements.php:563 mystickyelements.php:644 mystickyelements.php:726
+#: mystickyelements.php:811 mystickyelements.php:893 mystickyelements.php:975
+#: mystickyelements.php:1057
+msgid "Horizontal Position"
+msgstr ""
+
+#: mystickyelements.php:332 mystickyelements.php:412 mystickyelements.php:491
+#: mystickyelements.php:570 mystickyelements.php:651 mystickyelements.php:733
+#: mystickyelements.php:818 mystickyelements.php:900 mystickyelements.php:982
+#: mystickyelements.php:1064
+msgid "Vertical Position"
+msgstr ""
+
+#: mystickyelements.php:339 mystickyelements.php:419 mystickyelements.php:498
+#: mystickyelements.php:577 mystickyelements.php:658 mystickyelements.php:740
+#: mystickyelements.php:825 mystickyelements.php:907 mystickyelements.php:989
+#: mystickyelements.php:1071
+msgid "Icon bg Color"
+msgstr ""
+
+#: mystickyelements.php:346 mystickyelements.php:426 mystickyelements.php:505
+#: mystickyelements.php:584 mystickyelements.php:665 mystickyelements.php:747
+#: mystickyelements.php:832 mystickyelements.php:914 mystickyelements.php:996
+#: mystickyelements.php:1078
+msgid "Icon bg Image"
+msgstr ""
+
+#: mystickyelements.php:353 mystickyelements.php:433 mystickyelements.php:512
+#: mystickyelements.php:591 mystickyelements.php:672 mystickyelements.php:754
+#: mystickyelements.php:839 mystickyelements.php:921 mystickyelements.php:1003
+#: mystickyelements.php:1085
+msgid "Content bg Color"
+msgstr ""
+
+#: mystickyelements.php:360 mystickyelements.php:440 mystickyelements.php:519
+#: mystickyelements.php:598 mystickyelements.php:679 mystickyelements.php:761
+#: mystickyelements.php:846 mystickyelements.php:928 mystickyelements.php:1010
+#: mystickyelements.php:1092
+msgid "Content Text Color"
+msgstr ""
+
+#: mystickyelements.php:367 mystickyelements.php:447 mystickyelements.php:526
+#: mystickyelements.php:605 mystickyelements.php:686 mystickyelements.php:768
+#: mystickyelements.php:853 mystickyelements.php:935 mystickyelements.php:1017
+#: mystickyelements.php:1099
+msgid "Content Width"
+msgstr ""
+
+#: mystickyelements.php:374 mystickyelements.php:454 mystickyelements.php:533
+#: mystickyelements.php:612 mystickyelements.php:693 mystickyelements.php:775
+#: mystickyelements.php:860 mystickyelements.php:942 mystickyelements.php:1024
+#: mystickyelements.php:1106
+msgid "Content Padding"
+msgstr ""
+
+#: mystickyelements.php:381 mystickyelements.php:461 mystickyelements.php:540
+#: mystickyelements.php:619 mystickyelements.php:700 mystickyelements.php:782
+#: mystickyelements.php:867 mystickyelements.php:949 mystickyelements.php:1031
+#: mystickyelements.php:1113
+msgid "Content"
+msgstr ""
+
+#: mystickyelements.php:1241
+msgid "Add sticky elements to your blog."
+msgstr ""
+
+#: mystickyelements.php:1251
+msgid "less than "
+msgstr ""
+
+#: mystickyelements.php:1251
+msgid "px width, 0 to disable."
+msgstr ""
+
+#: mystickyelements.php:1273 mystickyelements.php:1280
+#: mystickyelements.php:1287
+msgid "click"
+msgstr ""
+
+#: mystickyelements.php:1274 mystickyelements.php:1281
+#: mystickyelements.php:1288
+msgid "hover"
+msgstr ""
+
+#: mystickyelements.php:1299
+msgid "Add/Edit css to manage advanced elements style."
+msgstr ""
+
+#: mystickyelements.php:1311
+msgid "Element 1 Settings."
+msgstr ""
+
+#: mystickyelements.php:1452
+msgid "Element 2 Settings."
+msgstr ""
+
+#: mystickyelements.php:1587
+msgid "Element 3 Settings."
+msgstr ""
+
+#: mystickyelements.php:1725
+msgid "Element 4 Settings."
+msgstr ""
+
+#: mystickyelements.php:1862
+msgid "Element 5 Settings."
+msgstr ""
+
+#: mystickyelements.php:2000
+msgid "Element 6 Settings."
+msgstr ""
+
+#: mystickyelements.php:2136
+msgid "Element 7 Settings."
+msgstr ""
+
+#: mystickyelements.php:2272
+msgid "Element 8 Settings."
+msgstr ""
+
+#: mystickyelements.php:2410
+msgid "Element 9 Settings."
+msgstr ""
+
+#: mystickyelements.php:2547
+msgid "Element 10 Settings."
+msgstr ""
+
+#: mystickyelements.php:3644
+msgid "Move to the new version"
+msgstr ""
+
+#: recommended-plugins.php:180
+msgid "Try out our recommended plugins"
+msgstr ""
+
+#: recommended-plugins.php:181
+msgid "Hide From Menu"
+msgstr ""
+
+#: recommended-plugins.php:252
+#. translators: %s: Plugin name and version.
+msgid "Install %s now"
+msgstr ""
+
+#: recommended-plugins.php:259
+msgid "Cannot Install"
+msgstr ""
+
+#: recommended-plugins.php:274
+#. translators: %s: Plugin name and version.
+msgid "Update %s now"
+msgstr ""
+
+#: recommended-plugins.php:281
+msgid "Cannot Update"
+msgstr ""
+
+#: recommended-plugins.php:292
+msgid "Active"
+msgstr ""
+
+#: recommended-plugins.php:297
+#. translators: %s: Plugin name.
+msgid "Activate %s"
+msgstr ""
+
+#: recommended-plugins.php:310
+#. translators: %s: Plugin name.
+msgid "Network Activate %s"
+msgstr ""
+
+#: recommended-plugins.php:323
+msgid "Installed"
+msgstr ""
+
+#: recommended-plugins.php:468
+msgid "Less Than 10"
+msgstr ""
+
+#: recommended-plugins.php:496
+msgid ""
+"If you hide the recommended plugins page from your menu, it won't appear "
+"there again. Are you sure you'd like to do it?"
+msgstr ""
+
+#: upgrade-to-pro.php:32
+msgid "1 Year"
+msgstr ""
+
+#: upgrade-to-pro.php:33
+msgid "Billed Yearly"
+msgstr ""
+
+#: upgrade-to-pro.php:34
+msgid "/Year"
+msgstr ""
+
+#: upgrade-to-pro.php:39
+msgid "Less than $4.9/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:41 upgrade-to-pro.php:79 upgrade-to-pro.php:117
+msgid "1 Website"
+msgstr ""
+
+#: upgrade-to-pro.php:44
+msgid "Save $166"
+msgstr ""
+
+#: upgrade-to-pro.php:45
+msgid "Less than $10.8/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:47 upgrade-to-pro.php:85 upgrade-to-pro.php:123
+msgid "5 Websites"
+msgstr ""
+
+#: upgrade-to-pro.php:50
+msgid "Save $2,740"
+msgstr ""
+
+#: upgrade-to-pro.php:51
+msgid "Less than $17.4/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:53 upgrade-to-pro.php:91 upgrade-to-pro.php:129
+msgid "50 Websites"
+msgstr ""
+
+#: upgrade-to-pro.php:56 upgrade-to-pro.php:62 upgrade-to-pro.php:94
+#: upgrade-to-pro.php:100 upgrade-to-pro.php:132 upgrade-to-pro.php:138
+msgid "Save >95%"
+msgstr ""
+
+#: upgrade-to-pro.php:57
+msgid "Less than $34.9/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:59 upgrade-to-pro.php:97 upgrade-to-pro.php:135
+msgid "500 Websites"
+msgstr ""
+
+#: upgrade-to-pro.php:63
+msgid "Less than $47.4/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:65 upgrade-to-pro.php:103 upgrade-to-pro.php:141
+msgid "1000 Websites"
+msgstr ""
+
+#: upgrade-to-pro.php:70
+msgid "2 Year"
+msgstr ""
+
+#: upgrade-to-pro.php:71
+msgid "Billed Yearly after 2 Years"
+msgstr ""
+
+#: upgrade-to-pro.php:72
+msgid "/2 Years"
+msgstr ""
+
+#: upgrade-to-pro.php:76
+msgid "Save $29"
+msgstr ""
+
+#: upgrade-to-pro.php:77
+msgid "Less than $3.7/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:82
+msgid "Save $391"
+msgstr ""
+
+#: upgrade-to-pro.php:83
+msgid "Less than $8.3/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:88
+msgid "Save $5,000+"
+msgstr ""
+
+#: upgrade-to-pro.php:89
+msgid "Less than $13.7/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:95
+msgid "Less than $25.8/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:101
+msgid "Less than $36.2/mo"
+msgstr ""
+
+#: upgrade-to-pro.php:108
+msgid "Lifetime"
+msgstr ""
+
+#: upgrade-to-pro.php:109
+msgid "For Lifetime"
+msgstr ""
+
+#: upgrade-to-pro.php:110
+msgid "/Lifetime"
+msgstr ""
+
+#: upgrade-to-pro.php:114
+msgid "Save $126"
+msgstr ""
+
+#: upgrade-to-pro.php:115 upgrade-to-pro.php:121 upgrade-to-pro.php:127
+#: upgrade-to-pro.php:133 upgrade-to-pro.php:139
+msgid "Lifetime License 🚀"
+msgstr ""
+
+#: upgrade-to-pro.php:120
+msgid "Save $1,146"
+msgstr ""
+
+#: upgrade-to-pro.php:126
+msgid "Save $10,000+"
+msgstr ""
+
+#: upgrade-to-pro.php:149
+msgid "Unlimited channels to choose from"
+msgstr ""
+
+#: upgrade-to-pro.php:150
+msgid ""
+"Show unlimited social icons such as WhatsApp, Facebook, Twitter, Phone and "
+"more"
+msgstr ""
+
+#: upgrade-to-pro.php:153
+msgid "Custom icons"
+msgstr ""
+
+#: upgrade-to-pro.php:154
+msgid "Upload your own icon or choose from the preloaded library"
+msgstr ""
+
+#: upgrade-to-pro.php:157
+msgid "Multiple widgets"
+msgstr ""
+
+#: upgrade-to-pro.php:158
+msgid ""
+"Create different bars for different pages. Show different icons, form and "
+"language based on page targeting rules"
+msgstr ""
+
+#: upgrade-to-pro.php:161
+msgid "Custom contact form fields"
+msgstr ""
+
+#: upgrade-to-pro.php:165
+msgid "Contact form integration with MailChimp & MailPoet"
+msgstr ""
+
+#: upgrade-to-pro.php:166
+msgid ""
+"Turn on email integration to get leads directly to your MailChimp or "
+"MailPoet lists when customers submit their emails through the contact form"
+msgstr ""
+
+#: upgrade-to-pro.php:169
+msgid "Send contact form leads to email"
+msgstr ""
+
+#: upgrade-to-pro.php:170
+msgid "You can get the emails from your contact form directy to your email"
+msgstr ""
+
+#: upgrade-to-pro.php:173
+msgid "Spam protection with Google reCAPTCHA"
+msgstr ""
+
+#: upgrade-to-pro.php:174
+msgid ""
+"Integrate Google's reCAPTCHA (supports both V2 or V3) to restrict spammers "
+"from abusing the contact form"
+msgstr ""
+
+#: upgrade-to-pro.php:177
+msgid "Widget Analytics"
+msgstr ""
+
+#: upgrade-to-pro.php:178
+msgid ""
+"Unlock analytics data about your social channel usage. Find out how many of "
+"your visitors click on your widgets and chat channels."
+msgstr ""
+
+#: upgrade-to-pro.php:181
+msgid "Custom redirection/thank you page after form submission"
+msgstr ""
+
+#: upgrade-to-pro.php:182
+msgid ""
+"Redirect your audience to a separate page or show custom messages as your "
+"preference"
+msgstr ""
+
+#: upgrade-to-pro.php:185
+msgid "Custom height position"
+msgstr ""
+
+#: upgrade-to-pro.php:186
+msgid "Change the height position of the tabs on your website"
+msgstr ""
+
+#: upgrade-to-pro.php:189
+msgid "Page targeting"
+msgstr ""
+
+#: upgrade-to-pro.php:197
+msgid "Set triggers"
+msgstr ""
+
+#: upgrade-to-pro.php:198
+msgid ""
+"Set your widget to appear after a specific time delay or when users scroll "
+"to a certain percentage of the page, helping you capture attention at the "
+"perfect moment"
+msgstr ""
+
+#: upgrade-to-pro.php:201
+msgid "Traffic source targeting"
+msgstr ""
+
+#: upgrade-to-pro.php:205
+msgid "Set widget visibility days & hours"
+msgstr ""
+
+#: upgrade-to-pro.php:210
+msgid "Track which channels are getting the most clicks with GA events"
+msgstr ""
+
+#: upgrade-to-pro.php:213
+msgid "Custom CSS style"
+msgstr ""
+
+#: upgrade-to-pro.php:214
+msgid "Add CSS of your own to your form and social tabs"
+msgstr ""
+
+#: upgrade-to-pro.php:278 upgrade-to-pro.php:361
+msgid "Buy now"
+msgstr ""
+
+#: upgrade-to-pro.php:392
+msgid "30 days money back guaranteed"
+msgstr ""
+
+#: upgrade-to-pro.php:396
+msgid "The plugin will always keep working even if you don't renew your license"
+msgstr ""
+
+#: upgrade-to-pro.php:493
+msgid "TRUSTED BY LEADING COMPANIES WORLDWIDE"
+msgstr ""
+
+#: upgrade-to-pro.php:499
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "myStickyElements"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://premio.io/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"myStickyElements is simple yet very effective plugin. It is perfect to fill "
+"out usually unused side space on webpages with some additional messages, "
+"videos, social widgets ..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Premio"
+msgstr ""
+
+#: admin/chatway-plugin.php:115
+#. translators: %s: Plugin name and version.
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr ""
+
+#: admin/chatway-plugin.php:122
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr ""
+
+#: admin/chatway-plugin.php:137
+#. translators: %s: Plugin name and version.
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr ""
+
+#: admin/chatway-plugin.php:144
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr ""
+
+#: admin/chatway-plugin.php:155
+msgctxt "plugin"
+msgid "Active"
+msgstr ""
+
+#: admin/chatway-plugin.php:160
+#. translators: %s: Plugin name.
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr ""
+
+#: admin/chatway-plugin.php:173
+#. translators: %s: Plugin name.
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr ""
+
+#: admin/chatway-plugin.php:186
+msgctxt "plugin"
+msgid "Installed"
+msgstr ""
+
+#: admin/chatway-plugin.php:327 recommended-plugins.php:464
+#. translators: %s: Number of millions.
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/chatway-plugin.php:331
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr ""

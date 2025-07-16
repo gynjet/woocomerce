@@ -1,0 +1,10 @@
+wp-config.php
+wp-content/uploads
+wp-content/cache
+wp-content/upgrade
+.htaccess
+*.log
+*.sql
+node_modules/
+vendor/
+.env

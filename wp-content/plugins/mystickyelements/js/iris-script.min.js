@@ -1,0 +1,1 @@
+jQuery(document).ready((function(e){e(".my-color-field").wpColorPicker(),e("#mystickyelement-update").on("click",(function(){return 1==confirm("All your current tabs will not be available. Are you ready to move to the current version?")}))}));
