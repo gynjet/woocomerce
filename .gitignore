@@ -8,3 +8,8 @@ wp-content/upgrade
 node_modules/
 vendor/
 .env
+*.zip
+*.wpress
+wp-content/ai1wm-backups/
+wp-content/updraft/
+wp-content/uploads/
