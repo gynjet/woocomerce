@@ -1,0 +1,40 @@
+# Gynjet Impressoras - Loja (loja.gynjet.com.br)
+# Robots otimizado para WordPress + WooCommerce + Yoast
+# (não bloquear uploads, CSS/JS)
+
+# START YOAST BLOCK
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+
+# WooCommerce / páginas internas
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /my-account/
+Disallow: /add-to-cart/
+Disallow: /*add-to-cart=*
+
+# Busca e parâmetros
+Disallow: /search/
+Disallow: /*?s=*
+Disallow: /*?post_type=product&s=*
+Disallow: /*orderby=*
+Disallow: /*min_price=*
+Disallow: /*max_price=*
+Disallow: /*price=*
+Disallow: /*rating=*
+Disallow: /*filter_*
+Disallow: /*attribute_*
+Disallow: /*utm_*
+Disallow: /*?*paged=*
+
+# Feeds/comentários
+Disallow: /feed/
+Disallow: /*/feed/
+Disallow: /trackback/
+Disallow: /comments/
+
+# Sitemap do Yoast
+Sitemap: https://loja.gynjet.com.br/sitemap_index.xml
+# END YOAST BLOCK

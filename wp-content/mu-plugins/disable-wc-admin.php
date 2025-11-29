@@ -1,0 +1,1 @@
+<?php add_filter('woocommerce_admin_disabled','__return_true');
