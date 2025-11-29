@@ -14,3 +14,4 @@ wp-content/ai1wm-backups/
 wp-content/updraft/
 wp-content/uploads/
 .git_backup/
+*.bak-*
