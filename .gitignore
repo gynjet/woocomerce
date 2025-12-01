@@ -1,17 +1,67 @@
+# WordPress core configuration (keep sample files tracked)
 wp-config.php
-wp-content/uploads
-wp-content/cache
-wp-content/upgrade
-.htaccess
-*.log
-*.sql
+wp-config.php.*
+wp-config-local.php
+wp-config.dev.php
+wp-config.prod.php
+wp-config.local.php
+wp-config.backup
+wp-cli.local.yml
+.env
+.env.*
+
+# WordPress runtime content
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/backups-*
+wp-content/ai1wm-backups/
+wp-content/debug.log
+
+# WooCommerce generated assets
+wp-content/uploads/wc-logs/
+wp-content/uploads/wc-logs-*/
+wp-content/uploads/wc-analytics-*/
+wp-content/uploads/wc-*/
+
+# Vendor and build artifacts
 node_modules/
 vendor/
-.env
+composer.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# IDE and OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Archives and dumps
 *.zip
-*.wpress
-wp-content/ai1wm-backups/
-wp-content/updraft/
-wp-content/uploads/
-.git_backup/
-*.bak-*
+*.tar
+*.tar.gz
+*.sql
+*.sql.gz
+*.bak
+*.tmp
+*.orig
+
+# Local tooling
+coverage/
+logs/
+.cache/
+.sass-cache/
+.tmp/
+
+# Deployment artifacts
+.deploy/
+rsync-filter
+

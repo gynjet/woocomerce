@@ -1,0 +1,57 @@
+name: Deploy to Production
+
+on:
+  push:
+    branches: ["main", "master"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Sync files to server
+    runs-on: ubuntu-latest
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'push' &&
+       github.ref_protected == true &&
+       secrets.SSH_HOST != '' &&
+       secrets.SSH_USER != '' &&
+       secrets.SSH_KEY != '' &&
+       secrets.DEPLOY_PATH != '')
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install rsync
+        run: sudo apt-get update && sudo apt-get install -y rsync
+
+      - name: Set up SSH
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" | tr -d '\r' | base64 --decode > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          if [ -n "$SSH_KNOWN_HOSTS" ]; then
+            echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          else
+            ssh-keyscan -p "${SSH_PORT}" "${{ secrets.SSH_HOST }}" >> ~/.ssh/known_hosts
+          fi
+
+      - name: Deploy with rsync
+        env:
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+        run: |
+          RSYNC_FLAGS="-avz --delete --exclude-from=.gitignore"
+          rsync ${RSYNC_FLAGS} \
+            -e "ssh -i ~/.ssh/id_rsa -p ${SSH_PORT} -o StrictHostKeyChecking=yes" \
+            ./ "${{ secrets.SSH_USER }}"@"${{ secrets.SSH_HOST }}":"${{ secrets.DEPLOY_PATH }}"/
+
+      - name: Clear opcode cache (optional)
+        if: ${{ secrets.POST_DEPLOY_CMD != '' }}
+        run: |
+          ssh -i ~/.ssh/id_rsa -p "${{ secrets.SSH_PORT || '22' }}" \
+            -o StrictHostKeyChecking=yes \
+            "${{ secrets.SSH_USER }}"@"${{ secrets.SSH_HOST }}" "${{ secrets.POST_DEPLOY_CMD }}"
