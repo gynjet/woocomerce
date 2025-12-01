@@ -242,10 +242,15 @@ foreach (YOAST_POST_TYPES as $type) {
         continue;
       }
 
-      $meta = get_post_meta($id);
-      $title    = $meta['_yoast_wpseo_title'][0]    ?? '';
-      $desc     = $meta['_yoast_wpseo_metadesc'][0] ?? '';
-      $focus    = $meta['_yoast_wpseo_focuskw'][0]  ?? '';
+      // Lê sempre as duas variantes de meta: normal e legada (sem underscore)
+      $title  = get_post_meta($id, '_yoast_wpseo_title', true);
+      $desc   = get_post_meta($id, '_yoast_wpseo_metadesc', true);
+
+      $focus_primary = get_post_meta($id, '_yoast_wpseo_focuskw', true);   // meta atual
+      $focus_legacy  = get_post_meta($id, 'yoast_wpseo_focuskw', true);    // meta antiga (sem _)
+
+      // Se qualquer uma estiver preenchida, consideramos que já existe palavra-foco
+      $focus = $focus_primary ?: $focus_legacy;
 
       $brand_terms = [];
       $model_terms = [];
